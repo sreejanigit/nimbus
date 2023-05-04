@@ -1,0 +1,43 @@
+<svg id="Component_19_1" data-name="Component 19 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="68.422" viewBox="0 0 91 68.422">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_47" data-name="Path 47" d="M235.5,1101.521a10.981,10.981,0,0,0-3.38-.694c-6.4-.275-11.473,5.211-11.19,12.252a13.925,13.925,0,0,0,.446,2.977,5.061,5.061,0,0,0-1.762-.345,5.143,5.143,0,0,0-5.083,5.572,5.834,5.834,0,0,0,4.57,5.537l40.7-.039c.227,0,.451-.014.672-.034,4.181-.408,7.283-4.428,7.1-9.319-.19-5.15-3.956-9.441-8.484-9.584a7.1,7.1,0,0,0-3.165.628,12.857,12.857,0,0,0,.054-1.784c-.24-6.386-5.024-11.824-10.794-12.144-.18-.01-.358-.015-.536-.015a9.72,9.72,0,0,0-9.154,6.994" transform="translate(-214.523 -1094.527)" fill="#ff9800"/>
+    </clipPath>
+  </defs>
+  <g id="Component_18_1" data-name="Component 18 – 1">
+    <g id="Rectangle_258" data-name="Rectangle 258" fill="none" stroke="#d1d4e2" stroke-width="2">
+      <rect width="91" height="62" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="89" height="60" rx="3" fill="none"/>
+    </g>
+    <rect id="Rectangle_260" data-name="Rectangle 260" width="10.5" height="38" rx="2" transform="translate(6 17)" fill="#1f2649"/>
+    <g id="Rectangle_259" data-name="Rectangle 259" fill="none" stroke="#d1d4e2" stroke-width="2">
+      <rect width="91" height="12" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="89" height="10" rx="3" fill="none"/>
+    </g>
+    <line id="Line_104" data-name="Line 104" x2="6" transform="translate(7.5 6)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_105" data-name="Line 105" x2="6" transform="translate(18.5 6)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_106" data-name="Line 106" x2="6" transform="translate(29.5 6)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_107" data-name="Line 107" x2="20" transform="translate(23 19.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_114" data-name="Line 114" x2="20" transform="translate(50 19.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_118" data-name="Line 118" x2="7" transform="translate(77 19.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_122" data-name="Line 122" x2="7" transform="translate(77 39.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_110" data-name="Line 110" x2="20" transform="translate(23 29.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_112" data-name="Line 112" x2="20" transform="translate(50 29.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_116" data-name="Line 116" x2="7" transform="translate(77 29.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_120" data-name="Line 120" x2="7" transform="translate(77 49.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_108" data-name="Line 108" x2="20" transform="translate(23 24.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_113" data-name="Line 113" x2="20" transform="translate(50 24.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_117" data-name="Line 117" x2="7" transform="translate(77 24.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_121" data-name="Line 121" x2="7" transform="translate(77 44.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_109" data-name="Line 109" x2="20" transform="translate(23 34.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_111" data-name="Line 111" x2="20" transform="translate(50 34.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_123" data-name="Line 123" x2="20" transform="translate(50 39.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_115" data-name="Line 115" x2="7" transform="translate(77 34.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <line id="Line_119" data-name="Line 119" x2="7" transform="translate(77 54.697)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  </g>
+  <g id="Group_77" data-name="Group 77" transform="translate(20 36.129)">
+    <g id="Group_54" data-name="Group 54" clip-path="url(#clip-path)">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="53.355" height="32.292" transform="translate(-0.122 0)" fill="#ff9800"/>
+    </g>
+  </g>
+</svg>

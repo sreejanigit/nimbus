@@ -1,0 +1,2996 @@
+Uri: https://aws-shield-tlr.s3.amazonaws.com/2020-Q1_AWS_Shield_TLR.pdf
+File Name: E:\code\www.stormit.cloud\2020-Q1_AWS_Shield_TLR.pdf
+Content Type: application/pdf
+
+Uri: https://cloudreadiness.amazonaws.com/bfd2391ccfbac30513c6cc8b5c40e3ae.pdf
+File Name: E:\code\www.stormit.cloud\bfd2391ccfbac30513c6cc8b5c40e3ae.pdf
+Content Type: application/pdf
+
+Uri: https://consent.cookiebot.com/uc.js
+File Name: E:\code\www.stormit.cloud\uc.js
+Content Type: application/javascript
+
+Uri: https://d1.awsstatic.com/enterprise-marketing/cloud-economics/idc-fostering-business-and-organizational-transformation-to-generate-business-value-with-aws.pdf
+File Name: E:\code\www.stormit.cloud\enterprise-marketing\cloud-economics\idc-fostering-business-and-organizational-transformation-to-generate-business-value-with-aws.pdf
+Content Type: application/pdf
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_guide_for_broadcasters_1_aee61c9f2c.jpeg
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_guide_for_broadcasters_1_aee61c9f2c.jpeg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_guide_for_broadcasters_2_5947f092b8.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_guide_for_broadcasters_2_5947f092b8.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_guide_for_broadcasters_3_ac3b7fbb62.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_guide_for_broadcasters_3_ac3b7fbb62.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_guide_for_broadcasters_4_4658e4a673.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_guide_for_broadcasters_4_4658e4a673.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_guide_for_broadcasters_5_a3a290918f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_guide_for_broadcasters_5_a3a290918f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_guide_for_broadcasters_6_9887521e70.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_guide_for_broadcasters_6_9887521e70.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_guide_for_broadcasters_7_ad18887e11.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_guide_for_broadcasters_7_ad18887e11.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/10_s3_settings_static_website_hosting_6346fc946b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\10_s3_settings_static_website_hosting_6346fc946b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/11_AWS_waf_what_it_is_2_3917793f87.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\11_AWS_waf_what_it_is_2_3917793f87.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/11_AWS_waf_what_it_is_3_75023d5b21.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\11_AWS_waf_what_it_is_3_75023d5b21.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/11_AWS_waf_what_it_is_4_3ed123647c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\11_AWS_waf_what_it_is_4_3ed123647c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/11_AWS_waf_what_it_is_6_ed76d5c7df.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\11_AWS_waf_what_it_is_6_ed76d5c7df.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/11_AWS_waf_what_it_is_7_1dc086a516.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\11_AWS_waf_what_it_is_7_1dc086a516.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/11_AWS_waf_what_it_is_8_9d773f753e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\11_AWS_waf_what_it_is_8_9d773f753e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/11_s3_settings_static_website_hosting_22c7456368.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\11_s3_settings_static_website_hosting_22c7456368.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/12_Migration_strategy_with_stormit_1_54c4f55ac3.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\12_Migration_strategy_with_stormit_1_54c4f55ac3.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/12_Migration_strategy_with_stormit_2_8520c5f19c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\12_Migration_strategy_with_stormit_2_8520c5f19c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/12_Migration_strategy_with_stormit_3_a228ba36ca.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\12_Migration_strategy_with_stormit_3_a228ba36ca.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/12_Migration_strategy_with_stormit_4_f09f722b7e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\12_Migration_strategy_with_stormit_4_f09f722b7e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/12_s3_settings_static_website_hosting_62ee2a8006.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\12_s3_settings_static_website_hosting_62ee2a8006.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/13_aws_migration_strategies_1_54de659138.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\13_aws_migration_strategies_1_54de659138.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/13_aws_migration_strategies_2_596a53ef61.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\13_aws_migration_strategies_2_596a53ef61.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/13_aws_migration_strategies_4_ce0a5f91cc.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\13_aws_migration_strategies_4_ce0a5f91cc.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/13_s3_settings_static_website_hosting_866ffc1b3c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\13_s3_settings_static_website_hosting_866ffc1b3c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/14_AWS_shield_1_b68f708367.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\14_AWS_shield_1_b68f708367.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/14_AWS_shield_2_73de4f1d16.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\14_AWS_shield_2_73de4f1d16.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/14_AWS_shield_3_31b16864e8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\14_AWS_shield_3_31b16864e8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/14_AWS_shield_4_0fe68d77c2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\14_AWS_shield_4_0fe68d77c2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/14_AWS_shield_5_18aeae5a2a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\14_AWS_shield_5_18aeae5a2a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/14_s3_settings_static_website_hosting_8a6d786e86.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\14_s3_settings_static_website_hosting_8a6d786e86.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/15_In_Scope_case_study_1_b545610e0f.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\15_In_Scope_case_study_1_b545610e0f.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/15_In_Scope_case_study_5_7601e0e838.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\15_In_Scope_case_study_5_7601e0e838.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/16_s3_settings_static_website_hosting_d11d96a4ca.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\16_s3_settings_static_website_hosting_d11d96a4ca.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/16_What_is_RTT_1_b9a380b57d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\16_What_is_RTT_1_b9a380b57d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/16_What_is_RTT_2_660fc8d29b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\16_What_is_RTT_2_660fc8d29b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/16_What_is_RTT_3_e3e39da9c3.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\16_What_is_RTT_3_e3e39da9c3.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/16_What_is_RTT_4_9a93f98d71.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\16_What_is_RTT_4_9a93f98d71.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/16_What_is_RTT_5_1b3707c17b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\16_What_is_RTT_5_1b3707c17b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/16_What_is_RTT_6_df941de283.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\16_What_is_RTT_6_df941de283.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/17_s3_settings_static_website_hosting_af634ba615.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\17_s3_settings_static_website_hosting_af634ba615.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/17_What_is_Cache_hit_ratio_1_75ea65dfa4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\17_What_is_Cache_hit_ratio_1_75ea65dfa4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/17_What_is_Cache_hit_ratio_2_c8597b5d6c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\17_What_is_Cache_hit_ratio_2_c8597b5d6c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/17_What_is_Cache_hit_ratio_3_a2b1ffdb6d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\17_What_is_Cache_hit_ratio_3_a2b1ffdb6d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/17_What_is_Cache_hit_ratio_4_861c6e29af.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\17_What_is_Cache_hit_ratio_4_861c6e29af.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/17_What_is_Cache_hit_ratio_5_0a55639d14.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\17_What_is_Cache_hit_ratio_5_0a55639d14.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/17_What_is_Cache_hit_ratio_6_4340626f97.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\17_What_is_Cache_hit_ratio_6_4340626f97.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_11_41bba45e9e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_11_41bba45e9e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_1_893a62eb1d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_1_893a62eb1d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_2_d0ecf4115d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_2_d0ecf4115d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_3_5307272d33.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_3_5307272d33.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_4_defca99e1d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_4_defca99e1d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_5_166e14af03.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_5_166e14af03.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_6_7ab9c87936.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_6_7ab9c87936.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_7_560c5c7296.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_7_560c5c7296.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/18_Instance_Scheduler_8_b137165e0a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\18_Instance_Scheduler_8_b137165e0a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/19_What_is_origin_server_1_18744a91fe.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\19_What_is_origin_server_1_18744a91fe.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/19_What_is_origin_server_2_68abe5f7ea.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\19_What_is_origin_server_2_68abe5f7ea.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/1_cloudfront_pricing_table1_3364a6e8d4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\1_cloudfront_pricing_table1_3364a6e8d4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/1_s3_settings_static_website_hosting_d13a6fb7a2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\1_s3_settings_static_website_hosting_d13a6fb7a2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/20_Amazon_Guardduty_1_7b6ad99106.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\20_Amazon_Guardduty_1_7b6ad99106.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/20_Amazon_Guardduty_2_6ce016f32d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\20_Amazon_Guardduty_2_6ce016f32d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/20_Amazon_Guardduty_3_088bcee1f1.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\20_Amazon_Guardduty_3_088bcee1f1.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/20_Amazon_Guardduty_4_c2faa8639b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\20_Amazon_Guardduty_4_c2faa8639b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/20_Amazon_Guardduty_5_2414c66b95.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\20_Amazon_Guardduty_5_2414c66b95.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/20_Amazon_Guardduty_6_b227a9591b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\20_Amazon_Guardduty_6_b227a9591b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/20_Amazon_Guardduty_7_745382e190.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\20_Amazon_Guardduty_7_745382e190.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/21_Private_vs_public_cloud_security_1_2c3993130f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\21_Private_vs_public_cloud_security_1_2c3993130f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/21_Private_vs_public_cloud_security_2_4d60a33e81.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\21_Private_vs_public_cloud_security_2_4d60a33e81.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/21_Private_vs_public_cloud_security_3_8b38bf0917.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\21_Private_vs_public_cloud_security_3_8b38bf0917.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/22_AWS_Cost_optimization_1_e556760452.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\22_AWS_Cost_optimization_1_e556760452.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/22_AWS_Cost_optimization_2_b2ccbeeeb5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\22_AWS_Cost_optimization_2_b2ccbeeeb5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/22_AWS_Cost_optimization_3_ee50f896f8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\22_AWS_Cost_optimization_3_ee50f896f8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/23_Horizontal_vs_vertical_scaling_1_e5b0ec50ea.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\23_Horizontal_vs_vertical_scaling_1_e5b0ec50ea.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/23_Horizontal_vs_vertical_scaling_2_bf6d292ef7.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\23_Horizontal_vs_vertical_scaling_2_bf6d292ef7.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/23_Horizontal_vs_vertical_scaling_3_90970aa954.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\23_Horizontal_vs_vertical_scaling_3_90970aa954.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/23_Horizontal_vs_vertical_scaling_4_7d47ff4589.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\23_Horizontal_vs_vertical_scaling_4_7d47ff4589.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/24_S3_intelligent_tiering_1_c2c89726c2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\24_S3_intelligent_tiering_1_c2c89726c2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/24_S3_intelligent_tiering_2_e6a3b0ed51.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\24_S3_intelligent_tiering_2_e6a3b0ed51.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/24_S3_intelligent_tiering_3_86cb22a9b6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\24_S3_intelligent_tiering_3_86cb22a9b6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/24_S3_intelligent_tiering_4_d99f106832.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\24_S3_intelligent_tiering_4_d99f106832.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/24_S3_intelligent_tiering_5_13dc1f22b4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\24_S3_intelligent_tiering_5_13dc1f22b4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/25_AWS_auto_scaling_1_b66015c25c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\25_AWS_auto_scaling_1_b66015c25c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/25_AWS_auto_scaling_2_5bf95fa8b2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\25_AWS_auto_scaling_2_5bf95fa8b2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/25_AWS_auto_scaling_3_dd4679444c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\25_AWS_auto_scaling_3_dd4679444c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/25_AWS_auto_scaling_4_6e6e774add.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\25_AWS_auto_scaling_4_6e6e774add.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/25_AWS_auto_scaling_5_2fdb48a942.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\25_AWS_auto_scaling_5_2fdb48a942.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/25_AWS_auto_scaling_6_c60b0cfee0.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\25_AWS_auto_scaling_6_c60b0cfee0.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/25_AWS_auto_scaling_7_0d1902f3f6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\25_AWS_auto_scaling_7_0d1902f3f6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_10_31d7a22a3f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_10_31d7a22a3f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_11_64d4280ea5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_11_64d4280ea5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_1_441b738a8a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_1_441b738a8a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_2_3c6ab60dea.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_2_3c6ab60dea.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_3_1064e6ea6f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_3_1064e6ea6f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_4_0b8dc29214.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_4_0b8dc29214.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_5_4b96ad728a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_5_4b96ad728a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_6_2a88e1d71d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_6_2a88e1d71d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_7_68f3d8e5cb.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_7_68f3d8e5cb.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_8_0846c03a3c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_8_0846c03a3c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/26_AWS_Security_Hub_9_ddadd79530.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\26_AWS_Security_Hub_9_ddadd79530.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/27_AWS_direct_connect_1_b042c7c62a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\27_AWS_direct_connect_1_b042c7c62a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/27_AWS_direct_connect_2_aab9973a86.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\27_AWS_direct_connect_2_aab9973a86.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/27_AWS_direct_connect_3_2937f13b74.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\27_AWS_direct_connect_3_2937f13b74.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/27_AWS_direct_connect_4_68dce88fc4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\27_AWS_direct_connect_4_68dce88fc4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/28_Amazon_Inspector_1_44bf8e7bdc.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\28_Amazon_Inspector_1_44bf8e7bdc.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/28_Amazon_Inspector_2_dd27851275.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\28_Amazon_Inspector_2_dd27851275.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/28_Amazon_Inspector_3_65acb96b14.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\28_Amazon_Inspector_3_65acb96b14.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/28_Amazon_Inspector_4_bb495c77bb.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\28_Amazon_Inspector_4_bb495c77bb.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/28_Amazon_Inspector_5_be008e3aae.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\28_Amazon_Inspector_5_be008e3aae.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/28_Amazon_Inspector_6_e40778bcd2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\28_Amazon_Inspector_6_e40778bcd2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/29_AWS_Direct_Connect_vs_VPN_1_efbe0ddd58.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\29_AWS_Direct_Connect_vs_VPN_1_efbe0ddd58.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/29_AWS_Direct_Connect_vs_VPN_2_287a02edd5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\29_AWS_Direct_Connect_vs_VPN_2_287a02edd5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/29_AWS_Direct_Connect_vs_VPN_3_72ea4db66e.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\29_AWS_Direct_Connect_vs_VPN_3_72ea4db66e.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/29_AWS_Direct_Connect_vs_VPN_4_5f9b8fc135.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\29_AWS_Direct_Connect_vs_VPN_4_5f9b8fc135.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/29_AWS_Direct_Connect_vs_VPN_5_74a8cb426a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\29_AWS_Direct_Connect_vs_VPN_5_74a8cb426a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/2_cloudfront_pricing_table1_378a69089e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\2_cloudfront_pricing_table1_378a69089e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/2_s3_settings_static_website_hosting_2160edf9c5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\2_s3_settings_static_website_hosting_2160edf9c5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_10_f8db5944e8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_10_f8db5944e8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_1_ec8654e5d1.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_1_ec8654e5d1.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_2_eb152290d0.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_2_eb152290d0.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_3_15564f4dbf.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_3_15564f4dbf.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_4_41fb3ed15e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_4_41fb3ed15e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_5_71fb0d9ee0.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_5_71fb0d9ee0.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_6_73d2fc4be7.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_6_73d2fc4be7.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_7_4442e89558.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_7_4442e89558.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_8_13cbd0e422.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_8_13cbd0e422.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/30_Macie_9_ed02de5409.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\30_Macie_9_ed02de5409.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_10_f77008388d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_10_f77008388d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_1_74a92630b1.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_1_74a92630b1.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_2_b58eefa138.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_2_b58eefa138.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_3_6d1a5dde91.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_3_6d1a5dde91.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_4_5e2b03c15b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_4_5e2b03c15b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_5_9a6a7ff9a8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_5_9a6a7ff9a8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_6_6ce661e99b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_6_6ce661e99b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_7_8bed37be7c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_7_8bed37be7c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_8_ccb21eec59.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_8_ccb21eec59.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/31_AWS_data_transfer_9_bf252882a7.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\31_AWS_data_transfer_9_bf252882a7.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_10_ab79d97acf.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_10_ab79d97acf.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_11_e88ca2d189.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_11_e88ca2d189.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_12_317621ea21.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_12_317621ea21.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_14_db38d3f4f4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_14_db38d3f4f4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_15_efab94a031.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_15_efab94a031.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_16_c725778118.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_16_c725778118.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_1_6163d5294d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_1_6163d5294d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_2_3c1c17ad36.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_2_3c1c17ad36.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_3_333178dff6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_3_333178dff6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_4_64165fc533.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_4_64165fc533.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_5_8bbfde4b79.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_5_8bbfde4b79.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_6_a58bd48dc5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_6_a58bd48dc5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_7_dff8dd1e9f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_7_dff8dd1e9f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_8_6947eecac6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_8_6947eecac6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/32_Route_53_health_checks_9_a1e68f0843.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\32_Route_53_health_checks_9_a1e68f0843.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/33_Route_53_pricing_1_554bdc877f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\33_Route_53_pricing_1_554bdc877f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/33_Route_53_pricing_2_a00aff571b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\33_Route_53_pricing_2_a00aff571b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/33_Route_53_pricing_3_997c896771.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\33_Route_53_pricing_3_997c896771.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/33_Route_53_pricing_4_8093c1a3ef.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\33_Route_53_pricing_4_8093c1a3ef.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/33_Route_53_pricing_5_3d3559a4d3.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\33_Route_53_pricing_5_3d3559a4d3.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/33_Route_53_pricing_7_8565300555.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\33_Route_53_pricing_7_8565300555.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/33_Route_53_pricing_9_0b5e9296eb.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\33_Route_53_pricing_9_0b5e9296eb.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_10_4c264ca16d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_10_4c264ca16d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_11_7a19b486b6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_11_7a19b486b6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_12_3dfa4d7ec5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_12_3dfa4d7ec5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_13_2032e4d06e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_13_2032e4d06e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_14_bdc0685cd2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_14_bdc0685cd2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_15_b557281c3c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_15_b557281c3c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_16_80fe89e4a2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_16_80fe89e4a2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_1_d0cc03fdbd.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_1_d0cc03fdbd.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_2_6813c7d299.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_2_6813c7d299.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_3_3bdec0221e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_3_3bdec0221e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_4_5f24ac6a02.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_4_5f24ac6a02.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_5_a98265b097.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_5_a98265b097.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_6_fa4fe10129.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_6_fa4fe10129.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_7_4d04f6c3c6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_7_4d04f6c3c6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_8_31563afe34.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_8_31563afe34.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/34_Cloudfront_OAI_9_4cf6af56b8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\34_Cloudfront_OAI_9_4cf6af56b8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_10_060029a362.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_10_060029a362.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_12_ed9ad573ab.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_12_ed9ad573ab.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_13_526b8809ad.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_13_526b8809ad.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_14_aa40f57308.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_14_aa40f57308.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_15_0b8bd37206.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_15_0b8bd37206.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_16_2b57021263.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_16_2b57021263.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_17_a1e430f788.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_17_a1e430f788.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_18_e89a46e8a8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_18_e89a46e8a8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_19_cc672ae979.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_19_cc672ae979.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_1_314ebd24f8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_1_314ebd24f8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_20_b70309ec90.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_20_b70309ec90.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_21_0708c2b0b4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_21_0708c2b0b4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_22_65a87f8463.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_22_65a87f8463.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_23_b01dd09f50.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_23_b01dd09f50.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_24_5818330402.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_24_5818330402.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_25_745cf62e64.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_25_745cf62e64.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_27_b1afc91841.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_27_b1afc91841.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_2_c89bf6d2ae.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_2_c89bf6d2ae.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_3_a31b30652b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_3_a31b30652b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_4_96bb087e35.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_4_96bb087e35.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_5_a00b7847d9.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_5_a00b7847d9.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_6_004b97d23b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_6_004b97d23b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_7_4253b411b9.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_7_4253b411b9.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_8_08cca7b9a2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_8_08cca7b9a2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/35_Cloud_Front_EC_2_ALB_9_6daa1fd22a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\35_Cloud_Front_EC_2_ALB_9_6daa1fd22a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/36_14091217fa.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\36_14091217fa.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/36_Route53_basics_1_3b90b20948.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\36_Route53_basics_1_3b90b20948.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/36_Route53_basics_2_4522c3599b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\36_Route53_basics_2_4522c3599b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/36_Route53_basics_3_7661630f6f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\36_Route53_basics_3_7661630f6f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/36_Route53_basics_4_5ab612f276.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\36_Route53_basics_4_5ab612f276.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/36_Route53_basics_5_a169dbae48.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\36_Route53_basics_5_a169dbae48.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/36_Route53_basics_7_0a4fb7159d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\36_Route53_basics_7_0a4fb7159d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_53a319db58.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_53a319db58.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_origin_shield_1_a930ca51f3.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_origin_shield_1_a930ca51f3.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_origin_shield_2_7782faa7ea.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_origin_shield_2_7782faa7ea.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_origin_shield_3_767242077f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_origin_shield_3_767242077f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_origin_shield_4_52e7b1556d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_origin_shield_4_52e7b1556d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_origin_shield_5_05692cbf8b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_origin_shield_5_05692cbf8b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_origin_shield_6_83c4fd4803.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_origin_shield_6_83c4fd4803.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/37_origin_shield_7_05f1746cb8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\37_origin_shield_7_05f1746cb8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/38_lambda_pricing_1_6180d24ab4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\38_lambda_pricing_1_6180d24ab4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/38_lambda_pricing_2_9066093b53.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\38_lambda_pricing_2_9066093b53.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/38_lambda_pricing_4_ebc1e5472d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\38_lambda_pricing_4_ebc1e5472d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/38_lambda_pricing_5_1342819e1b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\38_lambda_pricing_5_1342819e1b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/38_lambda_pricing_6_63042d955c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\38_lambda_pricing_6_63042d955c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/38_lambda_pricing_7_09b910fe55.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\38_lambda_pricing_7_09b910fe55.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/38_lambda_pricing_8_7c604b870a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\38_lambda_pricing_8_7c604b870a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/39_api_gateway_1_a94165c660.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\39_api_gateway_1_a94165c660.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/39_api_gateway_2_f4f1505400.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\39_api_gateway_2_f4f1505400.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/39_api_gateway_3_2b7e834fa8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\39_api_gateway_3_2b7e834fa8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/39_api_gateway_4_622a761615.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\39_api_gateway_4_622a761615.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/39_api_gateway_5_33791ea78a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\39_api_gateway_5_33791ea78a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/39_api_gateway_6_ac8b9013ba.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\39_api_gateway_6_ac8b9013ba.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_14_357093cc14.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_14_357093cc14.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_15_1524ac843b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_15_1524ac843b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_1_f852a15023.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_1_f852a15023.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_2_2065f23e57.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_2_2065f23e57.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_3_4b4ccd3e93.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_3_4b4ccd3e93.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_4_a50f62867e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_4_a50f62867e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_5_5d8cecc8c7.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_5_5d8cecc8c7.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_Amazon_cloudfront_pricing_6_3757793d8b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_Amazon_cloudfront_pricing_6_3757793d8b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_cloudfront_pricing_table1_146c285065.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_cloudfront_pricing_table1_146c285065.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/3_s3_settings_static_website_hosting_bf37835d0c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\3_s3_settings_static_website_hosting_bf37835d0c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/40_api_gateway_pricing_1_fef2008065.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\40_api_gateway_pricing_1_fef2008065.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/40_api_gateway_pricing_2_af7e6146ad.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\40_api_gateway_pricing_2_af7e6146ad.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/40_api_gateway_pricing_3_65e3474e56.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\40_api_gateway_pricing_3_65e3474e56.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/40_api_gateway_pricing_4_a0a6353715.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\40_api_gateway_pricing_4_a0a6353715.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/40_api_gateway_pricing_5_80ceff4ce6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\40_api_gateway_pricing_5_80ceff4ce6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/40_api_gateway_pricing_6_695c714dc8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\40_api_gateway_pricing_6_695c714dc8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/40_api_gateway_pricing_7_d4b8937404.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\40_api_gateway_pricing_7_d4b8937404.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_1_b4895f1b83.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\41_AWS_organizations_1_b4895f1b83.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_2_c9f7d506bc.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\41_AWS_organizations_2_c9f7d506bc.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_3_f03b01a41d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\41_AWS_organizations_3_f03b01a41d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_4_1c40e0601d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\41_AWS_organizations_4_1c40e0601d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_5_05fe3dbdd1.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\41_AWS_organizations_5_05fe3dbdd1.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_6_17604d9ced.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\41_AWS_organizations_6_17604d9ced.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_7_cc2aa890b8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\41_AWS_organizations_7_cc2aa890b8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/42_AWS_SCP_1_85494ea501.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\42_AWS_SCP_1_85494ea501.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/42_AWS_SCP_2_f0964ce57e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\42_AWS_SCP_2_f0964ce57e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/42_AWS_SCP_3_a5ec37b23d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\42_AWS_SCP_3_a5ec37b23d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/43_AWS_managed_prefix_list_1_17f0f15f97.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\43_AWS_managed_prefix_list_1_17f0f15f97.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/43_AWS_managed_prefix_list_2_cb1a8c35d8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\43_AWS_managed_prefix_list_2_cb1a8c35d8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/43_AWS_managed_prefix_list_3_33ff2ee996.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\43_AWS_managed_prefix_list_3_33ff2ee996.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/43_AWS_managed_prefix_list_4_78504e37b6.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\43_AWS_managed_prefix_list_4_78504e37b6.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/43_AWS_managed_prefix_list_5_04c827ba55.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\43_AWS_managed_prefix_list_5_04c827ba55.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/4_s3_settings_static_website_hosting_9be6ab3136.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\4_s3_settings_static_website_hosting_9be6ab3136.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/4_what_is_cdn_cloudfront_1_cc23a0af6f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\4_what_is_cdn_cloudfront_1_cc23a0af6f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/4_what_is_cdn_cloudfront_2_909ce3425e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\4_what_is_cdn_cloudfront_2_909ce3425e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/4_what_is_cdn_cloudfront_3_5f5fb479a8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\4_what_is_cdn_cloudfront_3_5f5fb479a8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_AWS_tools_1_e9aaec79a7.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_AWS_tools_1_e9aaec79a7.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_AWS_tools_2_b2f71d089a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_AWS_tools_2_b2f71d089a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_AWS_tools_4_55be9db642.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_AWS_tools_4_55be9db642.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_AWS_tools_5_b04130b08b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_AWS_tools_5_b04130b08b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_AWS_tools_6_6f77e0a1df.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_AWS_tools_6_6f77e0a1df.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_AWS_tools_7_cd43bb95ce.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_AWS_tools_7_cd43bb95ce.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_AWS_tools_8_e182940832.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_AWS_tools_8_e182940832.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/5_s3_settings_static_website_hosting_3eeed5b53e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\5_s3_settings_static_website_hosting_3eeed5b53e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/6_RS_aws_migration_strategies_004e2a2db6.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\6_RS_aws_migration_strategies_004e2a2db6.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/6_s3_settings_static_website_hosting_646bd85f8d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\6_s3_settings_static_website_hosting_646bd85f8d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/6_To_M_case_study_3_0b90812284.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\6_To_M_case_study_3_0b90812284.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/6_To_M_case_study_5_eff80fd7ba.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\6_To_M_case_study_5_eff80fd7ba.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/7_D_Do_S_attack_mitigation_1_0589bc6370.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\7_D_Do_S_attack_mitigation_1_0589bc6370.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/7_D_Do_S_attack_mitigation_2_96aaf45996.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\7_D_Do_S_attack_mitigation_2_96aaf45996.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/7_D_Do_S_attack_mitigation_4_e3e1c14655.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\7_D_Do_S_attack_mitigation_4_e3e1c14655.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/7_D_Do_S_attack_mitigation_5_4bfbcc632d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\7_D_Do_S_attack_mitigation_5_4bfbcc632d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/7_D_Do_S_attack_mitigation_6_51e26e9d84.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\7_D_Do_S_attack_mitigation_6_51e26e9d84.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/7_D_Do_S_attack_mitigation_7_2cf149b498.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\7_D_Do_S_attack_mitigation_7_2cf149b498.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/7_s3_settings_static_website_hosting_f211272e1f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\7_s3_settings_static_website_hosting_f211272e1f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_aws_cloud_cost_optimization_strategies_172a7bec4a.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_aws_cloud_cost_optimization_strategies_172a7bec4a.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_Cost_optimization_strategies_10_e2044839de.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_Cost_optimization_strategies_10_e2044839de.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_Cost_optimization_strategies_1_755e3451c0.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_Cost_optimization_strategies_1_755e3451c0.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_Cost_optimization_strategies_2_fec1dadd53.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_Cost_optimization_strategies_2_fec1dadd53.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_Cost_optimization_strategies_3_e76daee93b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_Cost_optimization_strategies_3_e76daee93b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_Cost_optimization_strategies_5_568fc30ab9.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_Cost_optimization_strategies_5_568fc30ab9.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_Cost_optimization_strategies_6_b7cac7fdd2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_Cost_optimization_strategies_6_b7cac7fdd2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_Cost_optimization_strategies_7_f97ce97d54.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_Cost_optimization_strategies_7_f97ce97d54.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/8_s3_settings_static_website_hosting_3562674084.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\8_s3_settings_static_website_hosting_3562674084.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/9_s3_settings_static_website_hosting_9c689edb9b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\9_s3_settings_static_website_hosting_9c689edb9b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/alb_ec2_54ad8607b8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\alb_ec2_54ad8607b8.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/amazon_cloudfront_pricing_20408c78e0.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\amazon_cloudfront_pricing_20408c78e0.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/amazon_guardduty_9c842d1844.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\amazon_guardduty_9c842d1844.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Amazon_Inspector_323a6d027f.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\Amazon_Inspector_323a6d027f.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/amazon_route_53_health_checks_a3f82dfa5d.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\amazon_route_53_health_checks_a3f82dfa5d.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/API_gateway_7b36f9cc6f.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\API_gateway_7b36f9cc6f.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/api_gateway_and_cloudfront_6b68d99f12.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\api_gateway_and_cloudfront_6b68d99f12.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/api_gateway_and_cloudfront_manual_1_2c9a8c9c4b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\api_gateway_and_cloudfront_manual_1_2c9a8c9c4b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/api_gateway_and_cloudfront_manual_2_dc056c990e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\api_gateway_and_cloudfront_manual_2_dc056c990e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/api_gateway_and_cloudfront_manual_3_2ffb7fc9c3.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\api_gateway_and_cloudfront_manual_3_2ffb7fc9c3.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/api_gateway_and_cloudfront_manual_4_baf2bafea2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\api_gateway_and_cloudfront_manual_4_baf2bafea2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/api_gateway_and_cloudfront_manual_5_c5883a94ca.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\api_gateway_and_cloudfront_manual_5_c5883a94ca.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/api_gateway_endpoint_types_a0cfb9763d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\api_gateway_endpoint_types_a0cfb9763d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/API_gateway_pricing_69734f44f5.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\API_gateway_pricing_69734f44f5.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Aurora_replication_6_1022d7ea3e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Aurora_replication_6_1022d7ea3e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Aurora_replication_cluster_92652c85b3.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Aurora_replication_cluster_92652c85b3.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/AWS_auto_scaling_8a7447dc87.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\AWS_auto_scaling_8a7447dc87.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/aws_cost_optimization_d2285e4881.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\aws_cost_optimization_d2285e4881.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/aws_direct_connect_fc7c33f8ab.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\aws_direct_connect_fc7c33f8ab.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/AWS_High_Availability_cover_a5601f124b.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\AWS_High_Availability_cover_a5601f124b.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/aws_instance_scheduler_edd84c0450.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\aws_instance_scheduler_edd84c0450.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/AWS_Lambda_Pricing_a2a2a22697.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\AWS_Lambda_Pricing_a2a2a22697.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/aws_lambda_simple_high_availability_architecture_c094f439e0.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\aws_lambda_simple_high_availability_architecture_c094f439e0.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/AWS_Security_Hub_b58a929237.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\AWS_Security_Hub_b58a929237.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/aws_shield_a5e1a05e87.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\aws_shield_a5e1a05e87.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/aws_systems_manager_patching_6e1cbf0ff9.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\aws_systems_manager_patching_6e1cbf0ff9.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/aws_waf_sd_diagram_dd140b8872.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\aws_waf_sd_diagram_dd140b8872.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/AWS_well_architected_4124ee1190.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\AWS_well_architected_4124ee1190.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Bauer_Media_main_title_pic_5a9015171e.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\Bauer_Media_main_title_pic_5a9015171e.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Bauer_Media_SFDC_1_64f142d3bd.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Bauer_Media_SFDC_1_64f142d3bd.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/brid_c81ecf439d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\brid_c81ecf439d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cache_hit_ratio_6049e55f78.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\cache_hit_ratio_6049e55f78.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudchecker_well_architected_review_425c01d2b4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudchecker_well_architected_review_425c01d2b4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudfront_customers_1baed119b7.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudfront_customers_1baed119b7.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudfront_dynamic_ad819d53ed.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudfront_dynamic_ad819d53ed.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_10_f01625718d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_10_f01625718d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_11_d30b53f4b6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_11_d30b53f4b6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_12_c3f8de71e6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_12_c3f8de71e6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_14_31ba94cc18.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_14_31ba94cc18.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_15_659c752aa3.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_15_659c752aa3.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_16_a9048cfa0d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_16_a9048cfa0d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_17_3793d29dd5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_17_3793d29dd5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_1_02faf5d24f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_1_02faf5d24f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_20_49c061ec7b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_20_49c061ec7b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_21_5ee6d96957.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_21_5ee6d96957.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_22_4374196170.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_22_4374196170.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_23_b2c28aaaf6.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_23_b2c28aaaf6.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_2_d150b49d47.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_2_d150b49d47.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_3_e13695b08d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_3_e13695b08d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_4_3a53617927.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_4_3a53617927.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_5_cdee02e93f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_5_cdee02e93f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_6_2fc0f8a7df.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_6_2fc0f8a7df.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_7_f035f48a85.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_7_f035f48a85.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_8_531a77d5f5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_8_531a77d5f5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Cloudfront_oac_9_1f1d17c091.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Cloudfront_oac_9_1f1d17c091.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudfront_oai_42d5c26fe5.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudfront_oai_42d5c26fe5.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudfront_pricing_schema1_2f6476417a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudfront_pricing_schema1_2f6476417a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudfront_pricing_schema2_495e7d3ab1.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudfront_pricing_schema2_495e7d3ab1.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudfront_pricing_schema3_22c185c973.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudfront_pricing_schema3_22c185c973.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloudtrail_logging_40c446ccd9.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloudtrail_logging_40c446ccd9.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloud_migration_strategy_5efdee2a71.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloud_migration_strategy_5efdee2a71.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cloud_migration_tools_65c5cd9658.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\cloud_migration_tools_65c5cd9658.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/codedeployment_7870b80d0c.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\codedeployment_7870b80d0c.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/cost_opt_example_aws_b29b496952.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\cost_opt_example_aws_b29b496952.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/data_transfer_pricing_f3e7227569.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\data_transfer_pricing_f3e7227569.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/ddos_protection_e5a5b59be7.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\ddos_protection_e5a5b59be7.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/demo_47738c0331.zip
+File Name: E:\code\www.stormit.cloud\strapi-assets\demo_47738c0331.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/dx_vpn_b850ec61be.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\dx_vpn_b850ec61be.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Ec2_region_architecture_8e906eede7.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Ec2_region_architecture_8e906eede7.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/ec2_simple_high_availability_architecture_238f1c256f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\ec2_simple_high_availability_architecture_238f1c256f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/High_availability_1_41e9fa1096.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\High_availability_1_41e9fa1096.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/High_availability_calculation_211e728a57.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\High_availability_calculation_211e728a57.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/inscope_pic_434feafe70.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\inscope_pic_434feafe70.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge1_f69e1e090e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge1_f69e1e090e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge2_e035bbed39.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge2_e035bbed39.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge3_b6fe717fd5.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge3_b6fe717fd5.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge4_68415aae4b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge4_68415aae4b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge5_0e254cab0e.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge5_0e254cab0e.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge6_c0fc0f4940.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge6_c0fc0f4940.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge7_b148006f1f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge7_b148006f1f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge8_5d7aea98ea.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge8_5d7aea98ea.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge_147b9226f7.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge_147b9226f7.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_at_edge_f3eda189fc.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_at_edge_f3eda189fc.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_sd_1_264a5d2b95.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_sd_1_264a5d2b95.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/lambda_sd_2_a0a818b985.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\lambda_sd_2_a0a818b985.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/live_streaming_cdn_458fb0d4b2.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\live_streaming_cdn_458fb0d4b2.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/macie_751cb5576b.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\macie_751cb5576b.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Macie_automated_data_discovery_8a6ede6a57.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Macie_automated_data_discovery_8a6ede6a57.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/migrate_to_serverless_7464203738.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\migrate_to_serverless_7464203738.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/OAC_5186d76078.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\OAC_5186d76078.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/origin_server_f3e28fe132.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\origin_server_f3e28fe132.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Origin_Shield_88c4a78aeb.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\Origin_Shield_88c4a78aeb.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/private_public_cloud_security_54da4c3578.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\private_public_cloud_security_54da4c3578.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/RDS_high_availability_architecture_53f8ba10f1.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\RDS_high_availability_architecture_53f8ba10f1.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/region_and_azs_439e61596d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\region_and_azs_439e61596d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/route_53_f9f1c15e01.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\route_53_f9f1c15e01.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/route_53_pricing_7_8a397f838f.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\route_53_pricing_7_8a397f838f.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/s3_diagram_cloudfront_acm_route53_c2a411d6a4.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\s3_diagram_cloudfront_acm_route53_c2a411d6a4.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/scalability_in_cloud_computing_495f210461.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\scalability_in_cloud_computing_495f210461.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/sd_cloudfront_1fab3e6891.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\sd_cloudfront_1fab3e6891.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/sd_lambda_32e0b8af8a.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\sd_lambda_32e0b8af8a.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/services_to_cloudfront1_fb9c7a1b47.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\services_to_cloudfront1_fb9c7a1b47.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/services_to_cloudfront2_2fce8aed40.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\services_to_cloudfront2_2fce8aed40.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/smaller_srovnejto_ef0dcedebf.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\smaller_srovnejto_ef0dcedebf.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/srovnejto_color_3de2bd32b2.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\srovnejto_color_3de2bd32b2.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/srovnejto_main_pic_0fb7721dab.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\srovnejto_main_pic_0fb7721dab.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/tom_main_2775229e1d.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\tom_main_2775229e1d.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/waf_70a0566a73.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\waf_70a0566a73.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/waf_sd_0bb6f348ed.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\waf_sd_0bb6f348ed.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/well_architected_history_e3644c9599.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\well_architected_history_e3644c9599.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/well_architected_pic_25c7c62a8b.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\well_architected_pic_25c7c62a8b.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/well_architected_pillars_fece56d9de.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\well_architected_pillars_fece56d9de.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/well_architected_tool_9c6bb852d7.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\well_architected_tool_9c6bb852d7.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Well_architected_tool_management_console_1_772cece37f.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Well_architected_tool_management_console_1_772cece37f.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Well_architected_tool_management_console_2_d763bcaa4a.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Well_architected_tool_management_console_2_d763bcaa4a.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Well_architected_tool_management_console_3_12653b4313.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Well_architected_tool_management_console_3_12653b4313.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Well_architected_tool_management_console_4_531362a0ef.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Well_architected_tool_management_console_4_531362a0ef.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Well_architected_tool_management_console_5_318cc00f07.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Well_architected_tool_management_console_5_318cc00f07.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/Well_architected_tool_management_console_6_28a70baf84.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\Well_architected_tool_management_console_6_28a70baf84.png
+Content Type: image/png
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/What_are_AWS_managed_Prefix_Lists_3f05e4fc57.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\What_are_AWS_managed_Prefix_Lists_3f05e4fc57.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/what_is_a_cdn_2c14bbdb7b.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\what_is_a_cdn_2c14bbdb7b.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/what_is_rtt_f2555866cb.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\what_is_rtt_f2555866cb.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/What_is_S3_intelligence_fe0d4fab66.jpg
+File Name: E:\code\www.stormit.cloud\strapi-assets\What_is_S3_intelligence_fe0d4fab66.jpg
+Content Type: image/jpeg
+
+Uri: https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/windy_7a91d2c4e8.png
+File Name: E:\code\www.stormit.cloud\strapi-assets\windy_7a91d2c4e8.png
+Content Type: image/png
+
+Uri: https://d32ze2gidvkk54.cloudfront.net/Amazon_Route_53_Domain_Registration_Pricing_20140731.pdf
+File Name: E:\code\www.stormit.cloud\Amazon_Route_53_Domain_Registration_Pricing_20140731.pdf
+Content Type: application/pdf
+
+Uri: https://i.ytimg.com/vi/eOBq__h4OJ4/hqdefault.jpg
+File Name: E:\code\www.stormit.cloud\vi\eOBq__h4OJ4\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://i.ytimg.com/vi/kR_JtDdCCs0/hqdefault.jpg
+File Name: E:\code\www.stormit.cloud\vi\kR_JtDdCCs0\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://i.ytimg.com/vi/RakMxEblRrY/hqdefault.jpg
+File Name: E:\code\www.stormit.cloud\vi\RakMxEblRrY\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://i.ytimg.com/vi/W4hg--UYpq0/hqdefault.jpg
+File Name: E:\code\www.stormit.cloud\vi\W4hg--UYpq0\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://inspector-agent.amazonaws.com/linux/latest/install
+File Name: E:\code\www.stormit.cloud\linux\latest\install
+Content Type: 
+
+Uri: https://inspector-agent.amazonaws.com/windows/installer/latest/AWSAgentInstall.exe
+File Name: E:\code\www.stormit.cloud\windows\installer\latest\AWSAgentInstall.exe
+Content Type: binary/octet-stream
+
+Uri: https://s3.amazonaws.com/solutions-reference/aws-instance-scheduler/latest/instance-scheduler.template
+File Name: E:\code\www.stormit.cloud\solutions-reference\aws-instance-scheduler\latest\instance-scheduler.template
+Content Type: binary/octet-stream
+
+Uri: https://s3.amazonaws.com/solutions-reference/aws-instance-scheduler/latest/scheduler-cli.zip
+File Name: E:\code\www.stormit.cloud\solutions-reference\aws-instance-scheduler\latest\scheduler-cli.zip
+Content Type: application/zip
+
+Uri: https://www.stormit.cloud/
+File Name: E:\code\www.stormit.cloud\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/about/
+File Name: E:\code\www.stormit.cloud\about\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/architecture-deployment/
+File Name: E:\code\www.stormit.cloud\architecture-deployment\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/aws-lambda/
+File Name: E:\code\www.stormit.cloud\aws-lambda\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/aws-migration-services/
+File Name: E:\code\www.stormit.cloud\aws-migration-services\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/aws-web-application-firewall/
+File Name: E:\code\www.stormit.cloud\aws-web-application-firewall\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/
+File Name: E:\code\www.stormit.cloud\blog\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/6-pillars-of-aws-well-architected-framework/
+File Name: E:\code\www.stormit.cloud\blog\6-pillars-of-aws-well-architected-framework\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/6-rs-aws-migration-strategies/
+File Name: E:\code\www.stormit.cloud\blog\6-rs-aws-migration-strategies\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/amazon-api-gateway-pricing/
+File Name: E:\code\www.stormit.cloud\blog\amazon-api-gateway-pricing\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/amazon-cloudfront-pricing-how-to-approach-it-and-save-money/
+File Name: E:\code\www.stormit.cloud\blog\amazon-cloudfront-pricing-how-to-approach-it-and-save-money\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/amazon-guardduty/
+File Name: E:\code\www.stormit.cloud\blog\amazon-guardduty\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/amazon-inspector/
+File Name: E:\code\www.stormit.cloud\blog\amazon-inspector\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/amazon-route-53-pricing/
+File Name: E:\code\www.stormit.cloud\blog\amazon-route-53-pricing\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/amazon-route-53/
+File Name: E:\code\www.stormit.cloud\blog\amazon-route-53\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/api-gateway/
+File Name: E:\code\www.stormit.cloud\blog\api-gateway\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-auto-scaling/
+File Name: E:\code\www.stormit.cloud\blog\aws-auto-scaling\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-cost-optimization/
+File Name: E:\code\www.stormit.cloud\blog\aws-cost-optimization\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-data-transfer-pricing-how-to-reduce-costs/
+File Name: E:\code\www.stormit.cloud\blog\aws-data-transfer-pricing-how-to-reduce-costs\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-direct-connect/
+File Name: E:\code\www.stormit.cloud\blog\aws-direct-connect\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-high-availability-architecture/
+File Name: E:\code\www.stormit.cloud\blog\aws-high-availability-architecture\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-instance-scheduler/
+File Name: E:\code\www.stormit.cloud\blog\aws-instance-scheduler\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-lambda-pricing/
+File Name: E:\code\www.stormit.cloud\blog\aws-lambda-pricing\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-managed-prefix-list/
+File Name: E:\code\www.stormit.cloud\blog\aws-managed-prefix-list\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-organizations-how-to-manage-multiple-aws-accounts/
+File Name: E:\code\www.stormit.cloud\blog\aws-organizations-how-to-manage-multiple-aws-accounts\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-scp-service-control-policy/
+File Name: E:\code\www.stormit.cloud\blog\aws-scp-service-control-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-security-hub/
+File Name: E:\code\www.stormit.cloud\blog\aws-security-hub\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-waf-service-delivery/
+File Name: E:\code\www.stormit.cloud\blog\aws-waf-service-delivery\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/aws-well-architected-tool/
+File Name: E:\code\www.stormit.cloud\blog\aws-well-architected-tool\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/bauermedia-case-study/
+File Name: E:\code\www.stormit.cloud\blog\bauermedia-case-study\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/best-aws-tools-for-migration/
+File Name: E:\code\www.stormit.cloud\blog\best-aws-tools-for-migration\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/brid-tv/
+File Name: E:\code\www.stormit.cloud\blog\brid-tv\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cache-hit-ratio-what-is-it/
+File Name: E:\code\www.stormit.cloud\blog\cache-hit-ratio-what-is-it\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cloud-cost-optimization-strategies-and-tools/
+File Name: E:\code\www.stormit.cloud\blog\cloud-cost-optimization-strategies-and-tools\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cloud-ddos-protection-how-to-mitigate-all-risks/
+File Name: E:\code\www.stormit.cloud\blog\cloud-ddos-protection-how-to-mitigate-all-risks\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cloud-migration-strategy-with-stormit/
+File Name: E:\code\www.stormit.cloud\blog\cloud-migration-strategy-with-stormit\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cloudfront-distribution-for-amazon-ec2-alb/
+File Name: E:\code\www.stormit.cloud\blog\cloudfront-distribution-for-amazon-ec2-alb\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cloudfront-in-front-of-api-gateway/
+File Name: E:\code\www.stormit.cloud\blog\cloudfront-in-front-of-api-gateway\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cloudfront-origin-access-control/
+File Name: E:\code\www.stormit.cloud\blog\cloudfront-origin-access-control\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/cloudfront-origin-access-identity/
+File Name: E:\code\www.stormit.cloud\blog\cloudfront-origin-access-identity\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/comparison-aws-direct-connect-vs-vpn/
+File Name: E:\code\www.stormit.cloud\blog\comparison-aws-direct-connect-vs-vpn\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/inscope-case-study/
+File Name: E:\code\www.stormit.cloud\blog\inscope-case-study\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/lambda-at-edge/
+File Name: E:\code\www.stormit.cloud\blog\lambda-at-edge\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/live-streaming-cdn-guide/
+File Name: E:\code\www.stormit.cloud\blog\live-streaming-cdn-guide\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/origin-shield/
+File Name: E:\code\www.stormit.cloud\blog\origin-shield\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/private-cloud-security-vs-public-cloud-security/
+File Name: E:\code\www.stormit.cloud\blog\private-cloud-security-vs-public-cloud-security\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/route-53-health-check/
+File Name: E:\code\www.stormit.cloud\blog\route-53-health-check\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/s3-intelligent-tiering-storage-class/
+File Name: E:\code\www.stormit.cloud\blog\s3-intelligent-tiering-storage-class\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/scalability-in-cloud-computing-horizontal-vs-vertical-scaling/
+File Name: E:\code\www.stormit.cloud\blog\scalability-in-cloud-computing-horizontal-vs-vertical-scaling\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/setup-an-amazon-cloudfront-distribution-with-ssl-custom-domain-and-s3/
+File Name: E:\code\www.stormit.cloud\blog\setup-an-amazon-cloudfront-distribution-with-ssl-custom-domain-and-s3\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/srovnejto-case-study/
+File Name: E:\code\www.stormit.cloud\blog\srovnejto-case-study\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/stormit-achieves-aws-service-delivery-designation-for-amazon-cloudfront/
+File Name: E:\code\www.stormit.cloud\blog\stormit-achieves-aws-service-delivery-designation-for-amazon-cloudfront\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/stormit-sd-aws-lambda/
+File Name: E:\code\www.stormit.cloud\blog\stormit-sd-aws-lambda\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/times-of-malta-migrates-to-aws/
+File Name: E:\code\www.stormit.cloud\blog\times-of-malta-migrates-to-aws\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/what-is-a-web-application-firewall/
+File Name: E:\code\www.stormit.cloud\blog\what-is-a-web-application-firewall\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/what-is-amazon-macie/
+File Name: E:\code\www.stormit.cloud\blog\what-is-amazon-macie\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/what-is-an-origin-server/
+File Name: E:\code\www.stormit.cloud\blog\what-is-an-origin-server\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/what-is-aws-shield-how-does-it-work/
+File Name: E:\code\www.stormit.cloud\blog\what-is-aws-shield-how-does-it-work\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/what-is-cdn/
+File Name: E:\code\www.stormit.cloud\blog\what-is-cdn\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/what-is-round-trip-time-rtt-meaning-calculation/
+File Name: E:\code\www.stormit.cloud\blog\what-is-round-trip-time-rtt-meaning-calculation\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/blog/windy-is-an-extraordinary-tool-for-weather-forecast-visualization/
+File Name: E:\code\www.stormit.cloud\blog\windy-is-an-extraordinary-tool-for-weather-forecast-visualization\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/careers/
+File Name: E:\code\www.stormit.cloud\careers\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/case-studies/
+File Name: E:\code\www.stormit.cloud\case-studies\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/cdn-cost-calculator/
+File Name: E:\code\www.stormit.cloud\cdn-cost-calculator\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/cdn-security/
+File Name: E:\code\www.stormit.cloud\cdn-security\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/cdn-services/
+File Name: E:\code\www.stormit.cloud\cdn-services\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/cloud-check-up/
+File Name: E:\code\www.stormit.cloud\cloud-check-up\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/cloud-foundation/
+File Name: E:\code\www.stormit.cloud\cloud-foundation\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/cloud-reselling/
+File Name: E:\code\www.stormit.cloud\cloud-reselling\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/cloudfront/
+File Name: E:\code\www.stormit.cloud\cloudfront\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/contact/
+File Name: E:\code\www.stormit.cloud\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/enterprise-cloud-management-platform/
+File Name: E:\code\www.stormit.cloud\enterprise-cloud-management-platform\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/gaming-cdn/
+File Name: E:\code\www.stormit.cloud\gaming-cdn\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/managed-cloud-services/
+File Name: E:\code\www.stormit.cloud\managed-cloud-services\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/privacy/
+File Name: E:\code\www.stormit.cloud\privacy\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/site-map/
+File Name: E:\code\www.stormit.cloud\site-map\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/software-distribution/
+File Name: E:\code\www.stormit.cloud\software-distribution\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/terms-conditions/
+File Name: E:\code\www.stormit.cloud\terms-conditions\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/video-streaming-cdn/
+File Name: E:\code\www.stormit.cloud\video-streaming-cdn\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/website-app-acceleration/
+File Name: E:\code\www.stormit.cloud\website-app-acceleration\index.htm
+Content Type: text/html
+
+Uri: https://www.stormit.cloud/_next/static/chunks/129-26c1ea11d237dcb5.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\129-26c1ea11d237dcb5.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/289-51ca5caffa6acd6c.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\289-51ca5caffa6acd6c.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/333-eccaed7bc9de5d8f.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\333-eccaed7bc9de5d8f.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/477-7ec592ed4491e27a.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\477-7ec592ed4491e27a.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/647-fea602d33005ffe7.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\647-fea602d33005ffe7.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/674-ac9beaeecbd3e925.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\674-ac9beaeecbd3e925.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/712-3664fcab06d4d158.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\712-3664fcab06d4d158.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/framework-fc97f3f1282ce3ed.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\framework-fc97f3f1282ce3ed.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/main-98bbeefd347856ce.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\main-98bbeefd347856ce.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/about-486bb15d74464f51.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\about-486bb15d74464f51.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/architecture-deployment-75f7982a37472b36.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\architecture-deployment-75f7982a37472b36.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/aws-lambda-1a64386727c98eeb.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\aws-lambda-1a64386727c98eeb.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/aws-migration-services-25ea28de8cda92ff.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\aws-migration-services-25ea28de8cda92ff.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/aws-web-application-firewall-350702df9747c6f3.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\aws-web-application-firewall-350702df9747c6f3.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/blog-d58fc794d9c6ea4b.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\blog-d58fc794d9c6ea4b.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/blog/[slug]-da39574409bc1ece.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\blog\[slug]-da39574409bc1ece.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/careers-ff4141a7c266d0c8.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\careers-ff4141a7c266d0c8.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/case-studies-31506cfc19147c56.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\case-studies-31506cfc19147c56.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/cdn-cost-calculator-14c8d6fd3f1318fc.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\cdn-cost-calculator-14c8d6fd3f1318fc.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/cdn-security-13b600d464e8fa8f.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\cdn-security-13b600d464e8fa8f.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/cdn-services-fb8ea04c7f38e8fb.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\cdn-services-fb8ea04c7f38e8fb.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/cloud-check-up-c96aa12d5767e729.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\cloud-check-up-c96aa12d5767e729.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/cloud-foundation-1b02140a6347adb9.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\cloud-foundation-1b02140a6347adb9.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/cloud-reselling-8340e7665b8d4733.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\cloud-reselling-8340e7665b8d4733.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/cloudfront-9a6dc263fd7a1632.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\cloudfront-9a6dc263fd7a1632.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/contact-1bb7cd23b964e2c6.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\contact-1bb7cd23b964e2c6.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/enterprise-cloud-management-platform-8f66a3cd881be99c.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\enterprise-cloud-management-platform-8f66a3cd881be99c.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/gaming-cdn-a2cd4b8f20e024fc.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\gaming-cdn-a2cd4b8f20e024fc.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/index-4876ecb6b28d95ca.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\index-4876ecb6b28d95ca.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/managed-cloud-services-f62f00b64c11b139.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\managed-cloud-services-f62f00b64c11b139.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/privacy-b3e0b70e2520621a.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\privacy-b3e0b70e2520621a.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/site-map-0aaa2e4be8c80ad0.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\site-map-0aaa2e4be8c80ad0.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/software-distribution-9541284749cc469c.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\software-distribution-9541284749cc469c.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/terms-conditions-23b86bae165d0f49.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\terms-conditions-23b86bae165d0f49.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/video-streaming-cdn-098e21359d41a90f.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\video-streaming-cdn-098e21359d41a90f.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/website-app-acceleration-1614e910882ddf61.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\website-app-acceleration-1614e910882ddf61.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/pages/_app-1b0c675c301a7586.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\pages\_app-1b0c675c301a7586.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/chunks/webpack-5752944655d749a0.js
+File Name: E:\code\www.stormit.cloud\_next\static\chunks\webpack-5752944655d749a0.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/css/21f6556e7366016c.css
+File Name: E:\code\www.stormit.cloud\_next\static\css\21f6556e7366016c.css
+Content Type: text/css
+
+Uri: https://www.stormit.cloud/_next/static/css/e42c8b187a0ee66f.css
+File Name: E:\code\www.stormit.cloud\_next\static\css\e42c8b187a0ee66f.css
+Content Type: text/css
+
+Uri: https://www.stormit.cloud/_next/static/css/fa4d4ea01ec47b06.css
+File Name: E:\code\www.stormit.cloud\_next\static\css\fa4d4ea01ec47b06.css
+Content Type: text/css
+
+Uri: https://www.stormit.cloud/_next/static/media/360cities.0f6072ac.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\360cities.0f6072ac.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/about-hero-small.1cb4b4ba.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\about-hero-small.1cb4b4ba.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/about-hero.18b24802.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\about-hero.18b24802.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/access-control.eb68fee2.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\access-control.eb68fee2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/access-to-all.24df8e8d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\access-to-all.24df8e8d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/adam.192d0e0d.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\adam.192d0e0d.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/administration.86bf75dc.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\administration.86bf75dc.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/advanced-ddos.f49207e2.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\advanced-ddos.f49207e2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/amazon-cloud-front.dd0a70e0.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\amazon-cloud-front.dd0a70e0.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/amazon-cloudfront.b33c9618.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\amazon-cloudfront.b33c9618.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/amazon-global.5e550511.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\amazon-global.5e550511.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/amazon-global.bf68543f.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\amazon-global.bf68543f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/amazon-route.f42fd4da.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\amazon-route.f42fd4da.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/apostrophe.ff4c191d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\apostrophe.ff4c191d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/arhitecture-deployment-hero.7205735e.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\arhitecture-deployment-hero.7205735e.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/arhitecture-deployment.522006ca.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\arhitecture-deployment.522006ca.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/arrow-down-red.97fb0de6.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\arrow-down-red.97fb0de6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/arrow-down-white.f710c469.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\arrow-down-white.f710c469.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/automated-protection.c8123207.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\automated-protection.c8123207.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-certified-solutions-architect-associate.553b3774.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-certified-solutions-architect-associate.553b3774.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-lambda.6dd218d3.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-lambda.6dd218d3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-pn.2ddab3ea.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-pn.2ddab3ea.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-primary-badge.22cd7fbe.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-primary-badge.22cd7fbe.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/AWS-Service-Delivery-Logo.adf10997.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\AWS-Service-Delivery-Logo.adf10997.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-shield-ddos.30fcce56.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-shield-ddos.30fcce56.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-shield.a4493974.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-shield.a4493974.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-sysops-admin.bb92bb36.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-sysops-admin.bb92bb36.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-waf-icon.e787e74b.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-waf-icon.e787e74b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-waf.cda32b36.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-waf.cda32b36.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/aws-web-app.b0e112a7.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\aws-web-app.b0e112a7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/bad-bot.22efc4e2.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\bad-bot.22efc4e2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/BD-speciality.6e374a95.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\BD-speciality.6e374a95.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/billing-services.c1cbd70f.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\billing-services.c1cbd70f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/birdtv-slider-bg.c73d7820.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\birdtv-slider-bg.c73d7820.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/blank-silhouette.d71a4c87.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\blank-silhouette.d71a4c87.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/bmg-bg-big.6dd0a2d2.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\bmg-bg-big.6dd0a2d2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/bmg-bg-small.612d4ddf.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\bmg-bg-small.612d4ddf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/BMG_Logo_white.9875582c.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\BMG_Logo_white.9875582c.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/brid-pricing-bg.2a71e6d1.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\brid-pricing-bg.2a71e6d1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/brid-tv.e9db7d94.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\brid-tv.e9db7d94.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/bridtv-slider-logo.74a328f2.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\bridtv-slider-logo.74a328f2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/broadcast-distribution.8156c59e.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\broadcast-distribution.8156c59e.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cdn-cost-optimization-faq.4c539a0e.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\cdn-cost-optimization-faq.4c539a0e.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/cinnamon-logo.e0083129.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cinnamon-logo.e0083129.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-ad.5da1e089.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-ad.5da1e089.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-check.727ed40d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-check.727ed40d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-checkup-hero.a9b67291.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-checkup-hero.a9b67291.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-checkup-small.3475cc80.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-checkup-small.3475cc80.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-checkup.99b8bb5f.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-checkup.99b8bb5f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-foundation-hero.9dec6935.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-foundation-hero.9dec6935.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-foundation.88fc2b6b.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-foundation.88fc2b6b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-migration.45bb6297.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-migration.45bb6297.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-ms-hero.4402bc99.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-ms-hero.4402bc99.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloud-reselling.c3203e48.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloud-reselling.c3203e48.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cloudcheckr-title.5b6a32de.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cloudcheckr-title.5b6a32de.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/compliance-acord.1428d1cb.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\compliance-acord.1428d1cb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/compliance.d2136ce8.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\compliance.d2136ce8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/comprehensive.a72a3ced.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\comprehensive.a72a3ced.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/content-delivery.ae971637.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\content-delivery.ae971637.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cost-allocation.55e491c9.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cost-allocation.55e491c9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cost-calculator.73624029.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cost-calculator.73624029.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cost-effective.bb9d43c7.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cost-effective.bb9d43c7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cost-opti.cc10e505.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cost-opti.cc10e505.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cost-opti3.e5c5033d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cost-opti3.e5c5033d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/cost-optimization-2.05dbeddf.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\cost-optimization-2.05dbeddf.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/dartfish_logo.be18504d.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\dartfish_logo.be18504d.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/data-processing.a28f4739.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\data-processing.a28f4739.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/ddos-mitigation.ceb1dafc.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\ddos-mitigation.ceb1dafc.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/ddos-protection.b9f2553b.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\ddos-protection.b9f2553b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/deep-integration.d8ba18d9.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\deep-integration.d8ba18d9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/demand-solution.d8d041ef.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\demand-solution.d8d041ef.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/developer-as.90097f80.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\developer-as.90097f80.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/encriptions.10c35674.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\encriptions.10c35674.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/facebook-dark-blue.955a5a3d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\facebook-dark-blue.955a5a3d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/faster-time.a2537c7e.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\faster-time.a2537c7e.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/file-transcoding.8836d08d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\file-transcoding.8836d08d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/flexible-scaling.9afbcd64.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\flexible-scaling.9afbcd64.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/footer-bg.9381bdaf.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\footer-bg.9381bdaf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/free-data-transfer.94ffc934.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\free-data-transfer.94ffc934.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/gaming-comp.7e5ed72d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\gaming-comp.7e5ed72d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/gaming-parallax.8be4ba02.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\gaming-parallax.8be4ba02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/gaming.9f70bac4.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\gaming.9f70bac4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/global-fast.141059e4.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\global-fast.141059e4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/green-check-cloud.7e9c831a.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\green-check-cloud.7e9c831a.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/high-available.2ff1d202.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\high-available.2ff1d202.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/highly-prog.1e1175a7.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\highly-prog.1e1175a7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/Icon-awesome-facebook.043fe7ea.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\Icon-awesome-facebook.043fe7ea.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/Icon-awesome-linkedin-in.1aa132ae.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\Icon-awesome-linkedin-in.1aa132ae.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/Icon-awesome-twitter.4be9ab83.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\Icon-awesome-twitter.4be9ab83.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/Icon-awesome-youtube.53ad0876.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\Icon-awesome-youtube.53ad0876.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/Icon-search.bc735f5f.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\Icon-search.bc735f5f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/improve-ad.44353a0c.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\improve-ad.44353a0c.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/inscope-pricing-bg.35aac1d4.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\inscope-pricing-bg.35aac1d4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/inscope-slider-logo.04c8b251.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\inscope-slider-logo.04c8b251.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/inscope.97c0715c.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\inscope.97c0715c.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/intelligent-protection.154a896d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\intelligent-protection.154a896d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/ivo.8c2f6400.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\ivo.8c2f6400.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/Lagardère.ec45b761.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\Lagardère.ec45b761.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/latest-technology.7514005b.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\latest-technology.7514005b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/layers-ddos.d2522cad.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\layers-ddos.d2522cad.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/linkedin-dark-blue.3f0f2b51.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\linkedin-dark-blue.3f0f2b51.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/linkedin.36b1104c.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\linkedin.36b1104c.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/low-latency.1331c81d.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\low-latency.1331c81d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/lower-risks.9afc5629.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\lower-risks.9afc5629.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/lukas.70757019.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\lukas.70757019.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/machine-learning.a8093c89.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\machine-learning.a8093c89.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/managed-rules.e64ea9d0.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\managed-rules.e64ea9d0.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/managed-services.5b9326a1.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\managed-services.5b9326a1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/mobile-apps.e0173456.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\mobile-apps.e0173456.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/mobile-backend.3967f8ea.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\mobile-backend.3967f8ea.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/multi-format-video.60967944.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\multi-format-video.60967944.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/nazar.20b2b692.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\nazar.20b2b692.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/newspaper-folded.ea089cbd.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\newspaper-folded.ea089cbd.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/no-server.6b0d2465.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\no-server.6b0d2465.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/origin-shield.52e4468f.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\origin-shield.52e4468f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/our-vision.0e255da7.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\our-vision.0e255da7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-01.893a05a5.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-01.893a05a5.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-check-02-new.c94d1518.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-check-02-new.c94d1518.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-check-03-new.e12c199b.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-check-03-new.e12c199b.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-check-04-new.e5d36b93.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-check-04-new.e5d36b93.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-enter-02-new.a3b16aa5.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-enter-02-new.a3b16aa5.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-enter-03-new.e5d36b93.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-enter-03-new.e5d36b93.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-enter-04-new.0c55412f.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-enter-04-new.0c55412f.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-enter-05-new.1ef4df90.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-enter-05-new.1ef4df90.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/parallax-solution-live.aa8fdc13.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\parallax-solution-live.aa8fdc13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/pay-as-you-go.203effae.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\pay-as-you-go.203effae.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/personalized-ads.602d6a42.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\personalized-ads.602d6a42.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/pricing-bg-bridtv.8bf8f623.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\pricing-bg-bridtv.8bf8f623.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/pricing-bg-inscope.218d30f9.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\pricing-bg-inscope.218d30f9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-300.16efb6b3.woff2
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-300.16efb6b3.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-300.3d77c7b2.woff
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-300.3d77c7b2.woff
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-300.51d96871.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-300.51d96871.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-300.54005858.eot
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-300.54005858.eot
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-300.db5de657.ttf
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-300.db5de657.ttf
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-500.29ad94f9.woff
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-500.29ad94f9.woff
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-500.450bae3b.eot
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-500.450bae3b.eot
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-500.6b66853e.woff2
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-500.6b66853e.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-500.c154b08c.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-500.c154b08c.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-500.ceed39c8.ttf
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-500.ceed39c8.ttf
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-600.27b85ae9.ttf
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-600.27b85ae9.ttf
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-600.5e52664e.woff
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-600.5e52664e.woff
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-600.8c8a4f9c.woff2
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-600.8c8a4f9c.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-600.91fe9cf5.eot
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-600.91fe9cf5.eot
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-600.f57870fd.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-600.f57870fd.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-700.10ed440f.woff2
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-700.10ed440f.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-700.7c353d23.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-700.7c353d23.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-700.b73d7b5a.woff
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-700.b73d7b5a.woff
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-700.ccf7d8ff.eot
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-700.ccf7d8ff.eot
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-700.f212820b.ttf
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-700.f212820b.ttf
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-regular.42ff8b89.woff2
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-regular.42ff8b89.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-regular.60732cd9.eot
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-regular.60732cd9.eot
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-regular.6a0cb39e.woff
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-regular.6a0cb39e.woff
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-regular.938a6d5a.ttf
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-regular.938a6d5a.ttf
+Content Type: binary/octet-stream
+
+Uri: https://www.stormit.cloud/_next/static/media/readex-pro-v8-latin-regular.df177c64.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\readex-pro-v8-latin-regular.df177c64.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/real-time-file.5e82f0cf.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\real-time-file.5e82f0cf.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/red-arrow-big.1299b432.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\red-arrow-big.1299b432.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/red-arrow-cloud.27c9f1b8.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\red-arrow-cloud.27c9f1b8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/relax-gaming.d69eb46f.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\relax-gaming.d69eb46f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/relaxgaming.e77ef6c8.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\relaxgaming.e77ef6c8.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/retail.258de3ab.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\retail.258de3ab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/SA-professional.2f044425.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\SA-professional.2f044425.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/security-business.37595884.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\security-business.37595884.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/security-edge.0a73d752.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\security-edge.0a73d752.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/security.8285204c.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\security.8285204c.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/sedmi-odjel-blue.6d77075d.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\sedmi-odjel-blue.6d77075d.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/sefira.7dae5e69.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\sefira.7dae5e69.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/share-dark-blue.b8211fce.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\share-dark-blue.b8211fce.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/soft-distribution.c6daa085.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\soft-distribution.c6daa085.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/soft-laptop.a960dc94.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\soft-laptop.a960dc94.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/solution-live.64674e91.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\solution-live.64674e91.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/srovnejto-bg-small.65a2b2d0.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\srovnejto-bg-small.65a2b2d0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/srovnejto-bg.52facdf4.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\srovnejto-bg.52facdf4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/srovnejto_white.36ca6fb9.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\srovnejto_white.36ca6fb9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/stormit-footer-logo.ada54a30.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\stormit-footer-logo.ada54a30.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/nimbus-logo.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\nimbus-logo.png
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/stream-processing.be5d602b.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\stream-processing.be5d602b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/streaming-solution.0a4bf6c9.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\streaming-solution.0a4bf6c9.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/times-bg.710afc36.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\times-bg.710afc36.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/times-malta.dab36df9.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\times-malta.dab36df9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/timesm-slider-logo.6b1c4a94.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\timesm-slider-logo.6b1c4a94.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/tomas.8cd08425.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\tomas.8cd08425.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/traffic-monitoring.48f1b9eb.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\traffic-monitoring.48f1b9eb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/twitter-dark-blue.6cbf8659.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\twitter-dark-blue.6cbf8659.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/video-streaming.61fa53f4.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\video-streaming.61fa53f4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/web-acceleration.01dd22b6.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\web-acceleration.01dd22b6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/web-app-attacks.e27299e2.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\web-app-attacks.e27299e2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/web-app.dc2c2cd0.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\web-app.dc2c2cd0.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/website-aaa-parallax.8a5164f3.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\website-aaa-parallax.8a5164f3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/windy-bg-small.446d2c71.jpg
+File Name: E:\code\www.stormit.cloud\_next\static\media\windy-bg-small.446d2c71.jpg
+Content Type: image/jpeg
+
+Uri: https://www.stormit.cloud/_next/static/media/windy-bg.510c50f0.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\windy-bg.510c50f0.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/windy-logo.6234ecaa.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\windy-logo.6234ecaa.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/windy-phone.dfab3117.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\windy-phone.dfab3117.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/windy.ce89abf1.svg
+File Name: E:\code\www.stormit.cloud\_next\static\media\windy.ce89abf1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.stormit.cloud/_next/static/media/world-chart.4cb31a82.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\world-chart.4cb31a82.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/media/you.1048f246.png
+File Name: E:\code\www.stormit.cloud\_next\static\media\you.1048f246.png
+Content Type: image/png
+
+Uri: https://www.stormit.cloud/_next/static/_JQElS_SrS9wPFAeYFB0p/_buildManifest.js
+File Name: E:\code\www.stormit.cloud\_next\static\_JQElS_SrS9wPFAeYFB0p\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/_JQElS_SrS9wPFAeYFB0p/_middlewareManifest.js
+File Name: E:\code\www.stormit.cloud\_next\static\_JQElS_SrS9wPFAeYFB0p\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://www.stormit.cloud/_next/static/_JQElS_SrS9wPFAeYFB0p/_ssgManifest.js
+File Name: E:\code\www.stormit.cloud\_next\static\_JQElS_SrS9wPFAeYFB0p\_ssgManifest.js
+Content Type: application/javascript
+

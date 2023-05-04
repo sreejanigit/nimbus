@@ -1,0 +1,27 @@
+<svg id="Component_26_1" data-name="Component 26 – 1" xmlns="http://www.w3.org/2000/svg" width="92" height="76" viewBox="0 0 92 76">
+  <g id="Rectangle_272" data-name="Rectangle 272" fill="#f4f4f8" stroke="#d1d4e2" stroke-width="2" stroke-dasharray="5">
+    <rect width="68" height="48" rx="4" stroke="none"/>
+    <rect x="1" y="1" width="66" height="46" rx="3" fill="none"/>
+  </g>
+  <g id="Rectangle_273" data-name="Rectangle 273" transform="translate(6 7)" fill="#f4f4f8" stroke="#d1d4e2" stroke-width="2" stroke-dasharray="5">
+    <rect width="68" height="48" rx="4" stroke="none"/>
+    <rect x="1" y="1" width="66" height="46" rx="3" fill="none"/>
+  </g>
+  <g id="Rectangle_274" data-name="Rectangle 274" transform="translate(12 14)" fill="#f4f4f8" stroke="#d1d4e2" stroke-width="2" stroke-dasharray="5">
+    <rect width="68" height="48" rx="4" stroke="none"/>
+    <rect x="1" y="1" width="66" height="46" rx="3" fill="none"/>
+  </g>
+  <g id="Rectangle_275" data-name="Rectangle 275" transform="translate(18 21)" fill="#f4f4f8" stroke="#d1d4e2" stroke-width="2" stroke-dasharray="5">
+    <rect width="68" height="48" rx="4" stroke="none"/>
+    <rect x="1" y="1" width="66" height="46" rx="3" fill="none"/>
+  </g>
+  <g id="Rectangle_276" data-name="Rectangle 276" transform="translate(24 28)" fill="#f4f4f8" stroke="#1f2649" stroke-width="2">
+    <rect width="68" height="48" rx="4" stroke="none"/>
+    <rect x="1" y="1" width="66" height="46" rx="3" fill="none"/>
+  </g>
+  <g id="Group_388" data-name="Group 388" transform="translate(-216.244 -3382.706)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(264.744 3421.705)">
+      <path id="Path_416" data-name="Path 416" d="M30.551,15.193V6.976a.887.887,0,0,0-.532-.814L19.38,1.573a.887.887,0,0,0-.709,0L8.032,6.162a.887.887,0,0,0-.532.814v8.217a11.366,11.366,0,0,0,4.1,8.76l6.855,5.713a.887.887,0,0,0,1.135,0l6.855-5.713a11.366,11.366,0,0,0,4.1-8.76Z" transform="translate(-7.5 -1.499)" fill="#ff9800"/>
+    </g>
+  </g>
+</svg>

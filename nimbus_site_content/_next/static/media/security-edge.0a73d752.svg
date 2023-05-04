@@ -1,0 +1,19 @@
+<svg id="Component_17_1" data-name="Component 17 – 1" xmlns="http://www.w3.org/2000/svg" width="91" height="62" viewBox="0 0 91 62">
+  <g id="Rectangle_214" data-name="Rectangle 214" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="91" height="62" rx="4" stroke="none"/>
+    <rect x="1" y="1" width="89" height="60" rx="3" fill="none"/>
+  </g>
+  <g id="Rectangle_215" data-name="Rectangle 215" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="91" height="12" rx="4" stroke="none"/>
+    <rect x="1" y="1" width="89" height="10" rx="3" fill="none"/>
+  </g>
+  <line id="Line_82" data-name="Line 82" x2="6" transform="translate(7.5 6)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+  <line id="Line_83" data-name="Line 83" x2="6" transform="translate(18.5 6)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+  <line id="Line_84" data-name="Line 84" x2="6" transform="translate(29.5 6)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(16.441 33.089)">
+    <path id="Path_416" data-name="Path 416" d="M29.016,14.281V6.611a.828.828,0,0,0-.5-.76L18.589,1.568a.828.828,0,0,0-.662,0L8,5.852a.828.828,0,0,0-.5.76v7.67a10.609,10.609,0,0,0,3.83,8.176l6.4,5.333a.828.828,0,0,0,1.059,0l6.4-5.333a10.609,10.609,0,0,0,3.83-8.176Z" transform="translate(-5.44 -12.664)" fill="#ff9800"/>
+  </g>
+  <g id="Layer_2-2" data-name="Layer 2" transform="translate(47.441 33.089)">
+    <path id="Path_416-2" data-name="Path 416" d="M29.016,14.281V6.611a.828.828,0,0,0-.5-.76L18.589,1.568a.828.828,0,0,0-.662,0L8,5.852a.828.828,0,0,0-.5.76v7.67a10.609,10.609,0,0,0,3.83,8.176l6.4,5.333a.828.828,0,0,0,1.059,0l6.4-5.333a10.609,10.609,0,0,0,3.83-8.176Z" transform="translate(-5.44 -12.664)" fill="#1f2649"/>
+  </g>
+</svg>

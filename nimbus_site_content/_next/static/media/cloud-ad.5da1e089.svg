@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.949" height="52.577" viewBox="0 0 55.949 52.577">
+  <g id="Component_26_1" data-name="Component 26 – 1" transform="translate(1 1)">
+    <path id="Icon_metro-bubble" data-name="Icon metro-bubble" d="M29.545,3.856c14.9,0,26.974,9.812,26.974,21.917S44.443,47.689,29.545,47.689a33.314,33.314,0,0,1-4.205-.266c-5.794,5.794-12.71,6.833-19.4,6.986V52.991c3.611-1.769,6.744-4.991,6.744-8.674a10.175,10.175,0,0,0-.114-1.512c-6.1-4.018-10-10.155-10-17.033,0-12.1,12.077-21.917,26.974-21.917Z" transform="translate(-2.571 -3.856)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    <g id="Icon_ionic-md-megaphone" data-name="Icon ionic-md-megaphone" transform="translate(12.949 7.277)">
+      <path id="Path_966" data-name="Path 966" d="M26.534,10.083l-1.292,1.286a4.551,4.551,0,0,1,0,6.443L26.534,19.1a6.38,6.38,0,0,0,0-9.022Z" transform="translate(-4.702 -0.912)" fill="#ff9800"/>
+      <path id="Path_967" data-name="Path 967" d="M29.781,6.961l-1.27,1.27a8.1,8.1,0,0,1,0,11.444l1.27,1.27a9.884,9.884,0,0,0,0-13.983Z" transform="translate(-5.371 -0.273)" fill="#ff9800"/>
+      <path id="Path_968" data-name="Path 968" d="M18.358,11.447V5.625h-1.79L11.2,10.1H4.04l-1.79.895v6.264l1.79.895,4.475,7.159H11.2L9.521,18.154H11.2l5.369,3.58h1.79V15.911a2.119,2.119,0,0,0,1.79-2.232A2.119,2.119,0,0,0,18.358,11.447Z" transform="translate(0 0)" fill="#ff9800"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="84" viewBox="0 0 85 84">
+  <g id="Group_475" data-name="Group 475" transform="translate(-1069 -2672)">
+    <g id="Ellipse_319" data-name="Ellipse 319" transform="translate(1074 2676)" fill="none" stroke="#d1d4e2" stroke-width="2" stroke-dasharray="5">
+      <circle cx="38.5" cy="38.5" r="38.5" stroke="none"/>
+      <circle cx="38.5" cy="38.5" r="37.5" fill="none"/>
+    </g>
+    <g id="Group_420" data-name="Group 420" transform="translate(2889.851 3421.038) rotate(135)">
+      <line id="Line_25" data-name="Line 25" x1="32.719" transform="translate(741.5 1753.27)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+      <path id="Path_577" data-name="Path 577" d="M10169,1750.029l-3.987,3.987,3.987,4.177" transform="translate(-9424.017 -0.841)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    </g>
+    <g id="Group_474" data-name="Group 474" transform="translate(1093.738 2719.857) rotate(-45)">
+      <line id="Line_25-2" data-name="Line 25" x1="32.719" transform="translate(0.499 4.082)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+      <path id="Path_577-2" data-name="Path 577" d="M3.987,0,0,3.987,3.986,8.164" transform="translate(0 0)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+    </g>
+    <circle id="Ellipse_317" data-name="Ellipse 317" cx="14.5" cy="14.5" r="14.5" transform="translate(1125 2672)" fill="#ff9800"/>
+    <circle id="Ellipse_318" data-name="Ellipse 318" cx="14.5" cy="14.5" r="14.5" transform="translate(1069 2727)" fill="#1f2649"/>
+  </g>
+</svg>

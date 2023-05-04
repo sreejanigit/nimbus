@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.137" height="63.402" viewBox="0 0 71.137 63.402">
+  <g id="Component_25_1" data-name="Component 25 – 1" transform="translate(1)">
+    <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(-1.5 9.833)">
+      <path id="Path_963" data-name="Path 963" d="M16.864,32.432A2.432,2.432,0,1,1,14.432,30,2.432,2.432,0,0,1,16.864,32.432Z" transform="translate(6.523 17.705)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_964" data-name="Path 964" d="M33.364,32.432A2.432,2.432,0,1,1,30.932,30,2.432,2.432,0,0,1,33.364,32.432Z" transform="translate(16.773 17.705)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_965" data-name="Path 965" d="M1.5,1.5h9.727l6.517,32.562a4.864,4.864,0,0,0,4.864,3.915H46.245a4.864,4.864,0,0,0,4.864-3.915L55,13.659H13.659" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Group_146" data-name="Group 146" transform="translate(20.106 25.015) rotate(-45)">
+      <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="4.395" cy="4.395" rx="4.395" ry="4.395" transform="translate(3.102 2.687)" fill="#fff"/>
+      <path id="Icon_awesome-tag" data-name="Icon awesome-tag" d="M0,15.584V2.967A2.967,2.967,0,0,1,2.967,0H15.584a2.967,2.967,0,0,1,2.1.869L34.508,17.7a2.967,2.967,0,0,1,0,4.2L21.891,34.508a2.967,2.967,0,0,1-4.2,0L.869,17.682A2.967,2.967,0,0,1,0,15.584ZM6.923,3.956A2.967,2.967,0,1,0,9.89,6.923,2.967,2.967,0,0,0,6.923,3.956Z" transform="translate(0 0)" fill="#ff9800"/>
+    </g>
+    <text id="_" data-name="%" transform="translate(37.649 30.21)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">%</tspan></text>
+  </g>
+</svg>

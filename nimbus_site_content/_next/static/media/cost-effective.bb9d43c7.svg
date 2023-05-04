@@ -1,0 +1,33 @@
+<svg id="Component_28_1" data-name="Component 28 – 1" xmlns="http://www.w3.org/2000/svg" width="58" height="52.547" viewBox="0 0 58 52.547">
+  <g id="Rectangle_278" data-name="Rectangle 278" transform="translate(0 18)" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="58" height="7.547" rx="3" stroke="none"/>
+    <rect x="1" y="1" width="56" height="5.547" rx="2" fill="none"/>
+  </g>
+  <g id="Rectangle_281" data-name="Rectangle 281" transform="translate(0 45)" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="58" height="7.547" rx="3" stroke="none"/>
+    <rect x="1" y="1" width="56" height="5.547" rx="2" fill="none"/>
+  </g>
+  <g id="Rectangle_279" data-name="Rectangle 279" transform="translate(0 9)" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="58" height="7.547" rx="3" stroke="none"/>
+    <rect x="1" y="1" width="56" height="5.547" rx="2" fill="none"/>
+  </g>
+  <g id="Rectangle_282" data-name="Rectangle 282" transform="translate(0 36)" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="58" height="7.547" rx="3" stroke="none"/>
+    <rect x="1" y="1" width="56" height="5.547" rx="2" fill="none"/>
+  </g>
+  <g id="Rectangle_280" data-name="Rectangle 280" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="58" height="7.547" rx="3" stroke="none"/>
+    <rect x="1" y="1" width="56" height="5.547" rx="2" fill="none"/>
+  </g>
+  <g id="Rectangle_283" data-name="Rectangle 283" transform="translate(0 27)" fill="none" stroke="#d1d4e2" stroke-width="2">
+    <rect width="58" height="7.547" rx="3" stroke="none"/>
+    <rect x="1" y="1" width="56" height="5.547" rx="2" fill="none"/>
+  </g>
+  <g id="Group_486" data-name="Group 486" transform="translate(-713.387 -4938.214)">
+    <g id="Group_146" data-name="Group 146" transform="translate(721.356 4964.68) rotate(-45)">
+      <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="4.395" cy="4.395" rx="4.395" ry="4.395" transform="translate(3.102 2.687)" fill="#fff"/>
+      <path id="Icon_awesome-tag" data-name="Icon awesome-tag" d="M0,15.584V2.967A2.967,2.967,0,0,1,2.967,0H15.584a2.967,2.967,0,0,1,2.1.869L34.508,17.7a2.967,2.967,0,0,1,0,4.2L21.891,34.508a2.967,2.967,0,0,1-4.2,0L.869,17.682A2.967,2.967,0,0,1,0,15.584ZM6.923,3.956A2.967,2.967,0,1,0,9.89,6.923,2.967,2.967,0,0,0,6.923,3.956Z" transform="translate(0 0)" fill="#ff9800"/>
+    </g>
+    <text id="_" data-name="%" transform="translate(738.899 4969.875)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">%</tspan></text>
+  </g>
+</svg>

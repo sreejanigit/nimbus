@@ -1,0 +1,25 @@
+<svg id="Component_24_1" data-name="Component 24 – 1" xmlns="http://www.w3.org/2000/svg" width="102" height="82" viewBox="0 0 102 82">
+  <g id="Group_473" data-name="Group 473" transform="translate(-221 -2853)">
+    <g id="Rectangle_245" data-name="Rectangle 245" transform="translate(221 2859)" fill="none" stroke="#d1d4e2" stroke-width="2">
+      <rect width="30" height="70" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="28" height="68" rx="2" fill="none"/>
+    </g>
+    <rect id="Rectangle_246" data-name="Rectangle 246" width="30" height="82" rx="3" transform="translate(257 2853)" fill="#ff9800"/>
+    <g id="Rectangle_247" data-name="Rectangle 247" transform="translate(293 2859)" fill="none" stroke="#d1d4e2" stroke-width="2">
+      <rect width="30" height="70" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="28" height="68" rx="2" fill="none"/>
+    </g>
+    <path id="Path_987" data-name="Path 987" d="M10490.166,4964.388l2.357,2.357,5.082-5.082" transform="translate(-10221.886 -2094.163)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_988" data-name="Path 988" d="M10490.166,4964.388l2.357,2.357,5.082-5.082" transform="translate(-10221.886 -2078.163)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_989" data-name="Path 989" d="M10490.166,4964.388l2.357,2.357,5.082-5.082" transform="translate(-10221.886 -2062.163)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_990" data-name="Path 990" d="M10490.166,4964.388l2.357,2.357,5.082-5.082" transform="translate(-10221.886 -2047.163)" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+  <line id="Line_93" data-name="Line 93" x2="8.354" transform="translate(11.146 17.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  <line id="Line_100" data-name="Line 100" x2="8.354" transform="translate(83.146 17.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  <line id="Line_94" data-name="Line 94" x2="8.354" transform="translate(11.146 32.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  <line id="Line_99" data-name="Line 99" x2="8.354" transform="translate(83.146 32.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  <line id="Line_95" data-name="Line 95" x2="8.354" transform="translate(11.146 47.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  <line id="Line_98" data-name="Line 98" x2="8.354" transform="translate(83.146 47.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  <line id="Line_96" data-name="Line 96" x2="8.354" transform="translate(11.146 62.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+  <line id="Line_97" data-name="Line 97" x2="8.354" transform="translate(83.146 62.525)" fill="none" stroke="#d1d4e2" stroke-width="2"/>
+</svg>

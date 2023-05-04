@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.99" height="64.488" viewBox="0 0 51.99 64.488">
+  <g id="Component_16_1" data-name="Component 16 – 1" transform="translate(1 1)">
+    <g id="Icon_feather-file" data-name="Icon feather-file" transform="translate(-6 -3)">
+      <path id="Path_592" data-name="Path 592" d="M34.12,3H12.249A6.249,6.249,0,0,0,6,9.249v49.99a6.249,6.249,0,0,0,6.249,6.249H49.741a6.249,6.249,0,0,0,6.249-6.249V24.871Z" transform="translate(0 0)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_593" data-name="Path 593" d="M19.5,3V24.871H41.371" transform="translate(14.62 0)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path id="Icon_awesome-users" data-name="Icon awesome-users" d="M4.432,11.114A2.955,2.955,0,1,0,1.477,8.159,2.957,2.957,0,0,0,4.432,11.114Zm20.683,0A2.955,2.955,0,1,0,22.16,8.159,2.957,2.957,0,0,0,25.115,11.114Zm1.477,1.477H23.637a2.946,2.946,0,0,0-2.082.859A6.753,6.753,0,0,1,25.023,18.5H28.07a1.476,1.476,0,0,0,1.477-1.477V15.546A2.957,2.957,0,0,0,26.592,12.591Zm-11.819,0A5.171,5.171,0,1,0,9.6,7.421,5.168,5.168,0,0,0,14.773,12.591Zm3.546,1.477h-.383a7.139,7.139,0,0,1-6.325,0h-.383a5.32,5.32,0,0,0-5.318,5.318v1.33a2.217,2.217,0,0,0,2.216,2.216h13.3a2.217,2.217,0,0,0,2.216-2.216v-1.33A5.32,5.32,0,0,0,18.319,14.069ZM7.992,13.45a2.946,2.946,0,0,0-2.082-.859H2.955A2.957,2.957,0,0,0,0,15.546v1.477A1.476,1.476,0,0,0,1.477,18.5H4.52A6.77,6.77,0,0,1,7.992,13.45Z" transform="translate(10.222 25.653)" fill="#ff9800"/>
+  </g>
+</svg>

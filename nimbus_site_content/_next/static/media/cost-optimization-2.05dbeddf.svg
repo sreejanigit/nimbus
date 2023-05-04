@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="94" viewBox="0 0 116 94">
+  <g id="Group_363" data-name="Group 363" transform="translate(-213 -2576)">
+    <g id="Group_361" data-name="Group 361" transform="translate(259.894 2576.106)">
+      <g id="Ellipse_167" data-name="Ellipse 167" transform="translate(27.106 26.894)" fill="none" stroke="#d1d4e2" stroke-width="2">
+        <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+        <circle cx="7.5" cy="7.5" r="6.5" fill="none"/>
+      </g>
+      <g id="Ellipse_168" data-name="Ellipse 168" transform="translate(21.106 20.894)" fill="none" stroke="#d1d4e2" stroke-width="2">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_169" data-name="Ellipse 169" transform="translate(12.106 11.894)" fill="none" stroke="#d1d4e2" stroke-width="2">
+        <circle cx="22.5" cy="22.5" r="22.5" stroke="none"/>
+        <circle cx="22.5" cy="22.5" r="21.5" fill="none"/>
+      </g>
+      <g id="Ellipse_170" data-name="Ellipse 170" transform="translate(0.106 -0.106)" fill="none" stroke="#d1d4e2" stroke-width="2">
+        <circle cx="34.5" cy="34.5" r="34.5" stroke="none"/>
+        <circle cx="34.5" cy="34.5" r="33.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_360" data-name="Group 360" transform="translate(213 2600.787)">
+      <g id="Ellipse_167-2" data-name="Ellipse 167" transform="translate(27 27.213)" fill="#ff9800" stroke="#ff9800" stroke-width="2">
+        <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+        <circle cx="7.5" cy="7.5" r="6.5" fill="none"/>
+      </g>
+      <g id="Ellipse_168-2" data-name="Ellipse 168" transform="translate(21 21.213)" fill="none" stroke="#ff9800" stroke-width="2">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_169-2" data-name="Ellipse 169" transform="translate(12 12.213)" fill="none" stroke="#ff9800" stroke-width="2">
+        <circle cx="22.5" cy="22.5" r="22.5" stroke="none"/>
+        <circle cx="22.5" cy="22.5" r="21.5" fill="none"/>
+      </g>
+      <g id="Ellipse_170-2" data-name="Ellipse 170" transform="translate(0 0.213)" fill="none" stroke="#ff9800" stroke-width="2">
+        <circle cx="34.5" cy="34.5" r="34.5" stroke="none"/>
+        <circle cx="34.5" cy="34.5" r="33.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_146" data-name="Group 146" transform="translate(248.678 2636.532) rotate(-45)">
+      <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="5.855" cy="5.855" rx="5.855" ry="5.855" transform="translate(4.133 3.579)" fill="#fff"/>
+      <path id="Icon_awesome-tag" data-name="Icon awesome-tag" d="M0,20.758V3.952A3.952,3.952,0,0,1,3.952,0H20.758a3.952,3.952,0,0,1,2.795,1.158L45.966,23.571a3.952,3.952,0,0,1,0,5.589L29.16,45.966a3.952,3.952,0,0,1-5.589,0L1.158,23.553A3.952,3.952,0,0,1,0,20.758ZM9.222,5.269a3.952,3.952,0,1,0,3.952,3.952A3.952,3.952,0,0,0,9.222,5.269Z" transform="translate(0 0)" fill="#1f2649"/>
+    </g>
+    <text id="_" data-name="%" transform="translate(272.047 2644.138)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">%</tspan></text>
+  </g>
+</svg>

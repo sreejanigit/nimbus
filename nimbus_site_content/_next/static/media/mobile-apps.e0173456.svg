@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.031" height="50.616" viewBox="0 0 36.031 50.616">
+  <g id="Component_27_1" data-name="Component 27 – 1" transform="translate(1 1)">
+    <g id="Icon_feather-smartphone" data-name="Icon feather-smartphone" transform="translate(-9.5 -90)">
+      <path id="Path_979" data-name="Path 979" d="M12.362,3H36.67a4.862,4.862,0,0,1,4.862,4.862V46.755a4.862,4.862,0,0,1-4.862,4.862H12.362A4.862,4.862,0,0,1,7.5,46.755V7.862A4.862,4.862,0,0,1,12.362,3Z" transform="translate(2 87)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Ellipse_316" data-name="Ellipse 316" transform="translate(23.722 130.001)" fill="#fff" stroke="#d1d4e2" stroke-width="2">
+        <circle cx="3" cy="3" r="3" stroke="none"/>
+        <circle cx="3" cy="3" r="2" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_metro-apps" data-name="Icon metro-apps" d="M7.712,12.854h5.141V7.712H7.712Zm7.712,15.424h5.141V23.136H15.424Zm-7.712,0h5.141V23.136H7.712Zm0-7.712h5.141V15.424H7.712v5.141Zm7.712,0h5.141V15.424H15.424v5.141ZM23.136,7.712v5.141h5.141V7.712Zm-7.712,5.141h5.141V7.712H15.424Zm7.712,7.712h5.141V15.424H23.136Zm0,7.712h5.141V23.136H23.136v5.141Z" transform="translate(-0.98 3.288)" fill="#ff9800"/>
+  </g>
+</svg>

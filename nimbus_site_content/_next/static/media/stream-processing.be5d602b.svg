@@ -1,0 +1,13 @@
+<svg id="Component_17_1" data-name="Component 17 – 1" xmlns="http://www.w3.org/2000/svg" width="128" height="73" viewBox="0 0 128 73">
+  <g id="Group_414" data-name="Group 414" transform="translate(-254 -3206)">
+    <path id="Path_623" data-name="Path 623" d="M81-12H-17a3,3,0,0,0-3,3V43a3,3,0,0,0,3,3H28v4H26a5.006,5.006,0,0,0-5,5,1,1,0,0,0,1,1H42a1,1,0,0,0,1-1,5.006,5.006,0,0,0-5-5H36V46H66a1,1,0,0,0,0-2H-17a1,1,0,0,1-1-1V-9a1,1,0,0,1,1-1H81a1,1,0,0,1,1,1V24a1,1,0,0,0,2,0V-9A3,3,0,0,0,81-12ZM40.829,54H23.171A3.006,3.006,0,0,1,26,52H38a3.006,3.006,0,0,1,2.829,2ZM34,46v4H30V46Z" transform="translate(274 3218)" fill="#d1d4e2"/>
+    <circle id="Ellipse_187" data-name="Ellipse 187" cx="3" cy="3" r="3" transform="translate(262 3214)" fill="#ff9800"/>
+    <path id="Icon_metro-file-picture" data-name="Icon metro-file-picture" d="M91.622,51.6H8.355V42.174L33.335,18.6,67.553,42.174l24.069-9.431Z" transform="translate(249.531 3207.963)" fill="#d1d4e2"/>
+    <circle id="Ellipse_188" data-name="Ellipse 188" cx="7" cy="7" r="7" transform="translate(308 3217)" fill="#d1d4e2"/>
+  </g>
+  <circle id="Ellipse_321" data-name="Ellipse 321" cx="25" cy="25" r="25" transform="translate(78 23)" fill="#ff9800"/>
+  <g id="Icon_feather-clock" data-name="Icon feather-clock" transform="translate(86.487 31.487)">
+    <path id="Path_991" data-name="Path 991" d="M30.025,16.513A13.513,13.513,0,1,1,16.513,3,13.513,13.513,0,0,1,30.025,16.513Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_992" data-name="Path 992" d="M18,9v8.108l5.405,2.7" transform="translate(-1.487 -0.595)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

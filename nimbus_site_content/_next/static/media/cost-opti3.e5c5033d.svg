@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77.006" height="50.03" viewBox="0 0 77.006 50.03">
+  <g id="Component_24_1" data-name="Component 24 – 1" transform="translate(1)">
+    <g id="Icon_feather-clock" data-name="Icon feather-clock" transform="translate(-3 -1.438)">
+      <path id="Path_991" data-name="Path 991" d="M49.905,26.453A23.453,23.453,0,1,1,26.453,3,23.453,23.453,0,0,1,49.905,26.453Z" transform="translate(0 0)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_992" data-name="Path 992" d="M27.381,9V23.072L18,27.762" transform="translate(-0.927 3.381)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Group_486" data-name="Group 486" transform="translate(-695.381 -4939.665)">
+      <g id="Group_146" data-name="Group 146" transform="translate(721.356 4964.68) rotate(-45)">
+        <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="4.395" cy="4.395" rx="4.395" ry="4.395" transform="translate(3.102 2.687)" fill="#fff"/>
+        <path id="Icon_awesome-tag" data-name="Icon awesome-tag" d="M0,15.584V2.967A2.967,2.967,0,0,1,2.967,0H15.584a2.967,2.967,0,0,1,2.1.869L34.508,17.7a2.967,2.967,0,0,1,0,4.2L21.891,34.508a2.967,2.967,0,0,1-4.2,0L.869,17.682A2.967,2.967,0,0,1,0,15.584ZM6.923,3.956A2.967,2.967,0,1,0,9.89,6.923,2.967,2.967,0,0,0,6.923,3.956Z" transform="translate(0 0)" fill="#ff9800"/>
+      </g>
+      <text id="_" data-name="%" transform="translate(738.899 4969.875)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">%</tspan></text>
+    </g>
+  </g>
+</svg>

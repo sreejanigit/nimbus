@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95.623" height="74.841" viewBox="0 0 95.623 74.841">
+  <g id="Component_22_1" data-name="Component 22 – 1" transform="translate(1)">
+    <g id="latency" transform="translate(36.562 -4)">
+      <path id="Path_626" data-name="Path 626" d="M54.216,20.333,55.769,19.3a1,1,0,1,0-1.111-1.663L53.1,18.672A26.042,26.042,0,0,0,33,7.9V6h1.068a1,1,0,0,0,0-2H29.932a1,1,0,0,0,0,2H31V7.9A26.042,26.042,0,0,0,10.9,18.672l-1.556-1.04A1,1,0,0,0,8.231,19.3l1.553,1.037a26.061,26.061,0,1,0,44.432,0ZM32,58A24.061,24.061,0,1,1,56.061,33.939,24.061,24.061,0,0,1,32,58Z" fill="#d1d4e2"/>
+      <path id="Path_627" data-name="Path 627" d="M32,14.63A18.74,18.74,0,0,0,13.281,33.349a18.493,18.493,0,0,0,1.982,8.37,1,1,0,0,0,1.313.458l1.795-.832a1,1,0,1,0-.84-1.814l-.892.413a16.5,16.5,0,0,1-1.359-6.6,16.719,16.719,0,1,1,33.438,0,16.5,16.5,0,0,1-1.359,6.6l-.892-.413a1,1,0,1,0-.84,1.814l1.795.832a1,1,0,0,0,1.313-.458,18.493,18.493,0,0,0,1.982-8.37A18.74,18.74,0,0,0,32,14.63Z" fill="#1f2649"/>
+      <path id="Path_630" data-name="Path 630" d="M35.844,33.939a3.844,3.844,0,1,0-7.623.642L23.213,36.9a1,1,0,1,0,.84,1.814l5.014-2.322a3.827,3.827,0,0,0,6.777-2.454ZM32,35.783a1.844,1.844,0,1,1,1.844-1.844A1.844,1.844,0,0,1,32,35.783Z" fill="#1f2649"/>
+    </g>
+    <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M28.421,14.378,4.848.442A3.2,3.2,0,0,0,0,3.208V31.073a3.212,3.212,0,0,0,4.848,2.766L28.421,19.909A3.211,3.211,0,0,0,28.421,14.378Z" transform="translate(55.5 40.55)" fill="#ff9800"/>
+    <line id="Line_75" data-name="Line 75" x1="19" transform="translate(15 11.697)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_77" data-name="Line 77" x1="16" transform="translate(18 34.697)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_79" data-name="Line 79" x1="25" transform="translate(9 46.697)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_81" data-name="Line 81" x1="4" transform="translate(0 46.697)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_80" data-name="Line 80" x1="14" transform="translate(20 57.697)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_76" data-name="Line 76" x1="12" transform="translate(8.5 23.697)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_78" data-name="Line 78" x1="8" transform="translate(26.5 23.697)" fill="none" stroke="#d1d4e2" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
